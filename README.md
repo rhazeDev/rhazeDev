@@ -1,5 +1,5 @@
 <p align="center"; style="position: relative;"> 
- <img width="100%" height="280em" src="banner.jpg" align="center" alt="Banner" style="display:block; position: relative; margin: auto; " />
+ <img width="100%" height="400em" src="banner2.jpg" align="center" alt="Banner" style="display:block; position: relative; margin: auto; " />
 <!--  <img width="100px" height="100px" src="logoshit.jpeg" align="center" alt="Logo" style="border-radius: 50%; display: block; position: absolute; top: 50px; left: 50%; transform: translateX(-50%); z-index: 1;" /> -->
  <h2 align="center">Hi<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"/>, rhazeDev</h2>
 </p>
