@@ -3,7 +3,7 @@
 <!--  <img width="100px" height="100px" src="logoshit.jpeg" align="center" alt="Logo" style="border-radius: 50%; display: block; position: absolute; top: 50px; left: 50%; transform: translateX(-50%); z-index: 1;" /> -->
  <h2 align="center">Hi<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"/>, rhazeDev</h2>
 </p>
-<img align="center" src="https://skillicons.dev/icons?i=js,nodejs,react,cpp,java,python,neovim,vim,postman,discord,mongodb,express,git,github,figma,linux,mysql&theme=dark"/>
+<img align="center" src="https://skillicons.dev/icons?i=js,nodejs,react,cpp,java,python,neovim,vim,postman,discord,mongodb,express,git,github,figma,linux,mysql,firebase,bash&theme=dark"/>
 <p>
   <img src="https://komarev.com/ghpvc/?username=justineagcanas&style=for-the-badge&color=green"/>
   <a href="https://monkeytype.com/profile/rhaze" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.monkeytype.com%2Fusers%2Frhaze%2Fprofile%3FisUid%3Dfalse&query=data.personalBests.time.%2260%22.%5B0%5D.wpm&style=for-the-badge&logo=monkeytype&label=MONKEYTYPE&color=e0b114"/></a>  <img src="https://wakatime.com/badge/user/ebfeac4c-3a72-4dc0-b761-c038f92271cd.svg?style=for-the-badge"/>
