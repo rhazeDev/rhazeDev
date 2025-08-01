@@ -14,7 +14,7 @@
 <div>
 &emsp;&emsp;
  <img width="380" src="https://github-readme-stats.vercel.app/api?username=rhazeDev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=My%20Stats"/>
- <img width="423" height="158.667" src="https://github-readme-streak-stats-eight.vercel.app?user=rhaze&theme=tokyonight&hide_border=true"/>
+<!--  <img width="423" height="158.667" src="https://github-readme-streak-stats-eight.vercel.app?user=rhaze&theme=tokyonight&hide_border=true"/> -->
 </div>
 
 ### 🔝 Most used languages
