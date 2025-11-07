@@ -1,0 +1,39 @@
+name: Auto Update README with Quote
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Runs every hour
+  workflow_dispatch:     # Allows manual trigger from GitHub Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🧩 Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: 📦 Install Dependencies
+        run: |
+          pip install requests colorama
+
+      - name: ⚡ Run Update Script
+        run: python update_quote.py
+
+      - name: 💾 Commit and Push Changes
+        run: |
+          git config user.name "rhazeDev-bot"
+          git config user.email "rhazedev@users.noreply.github.com"
+          git add README.md
+
+          # Generate timestamp in Philippine time (UTC+8)
+          TIMEZONE="Asia/Manila"
+          DATETIME=$(TZ=$TIMEZONE date +"%Y-%m-%d %H:%M:%S %Z")
+
+          git commit -m "Auto-update coding quote (${DATETIME})" || echo "No changes to commit"
+          git push
