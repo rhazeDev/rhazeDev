@@ -10,8 +10,9 @@
 </p>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&vCenter=true&color=2959AA&height=30&random=false&width=435&lines=Welcome+to+my+github+profile!;Progress,%20+not+perfection.;One+byte+at+a+time;"/>
 
-<!--quote-start-->
-<!--quote-end-->
+<!--QUOTE-START-->
+<!--QUOTE-END-->
+
 
 ### 📈 Stats
 <div>
