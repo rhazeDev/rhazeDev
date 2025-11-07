@@ -29,8 +29,7 @@ async function updateQuote() {
     const quote = data.quote || data.en || "Keep coding, keep learning!";
     const author = data.author || "Unknown";
 
-    const date = new Date().toLocaleString("en-PH", { timeZone: "Asia/Manila" });
-    const newQuote = `> 💬 **${quote}** — *${author}*\n\n_Last updated: ${date}_`;
+    const newQuote = `> 💬 **${quote}** — *${author}*`;
 
     let readme = fs.readFileSync(README_PATH, "utf8");
 
