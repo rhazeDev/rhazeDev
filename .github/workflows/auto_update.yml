@@ -11,6 +11,9 @@ on:
 jobs:
   update-quote:
     runs-on: ubuntu-latest
+    env:
+      COMMIT_NAME: ${{ secrets.COMMIT_NAME || github.actor }}
+      COMMIT_EMAIL: ${{ secrets.COMMIT_EMAIL || (github.actor + '@users.noreply.github.com') }}
 
     steps:
       - name: Checkout repository
@@ -27,10 +30,11 @@ jobs:
         run: |
           node scripts/update_quotes.js
 
-      - name: Commit and push changes
+      - name: Commit and push changes with Philippines time in message
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "${COMMIT_NAME}"
+          git config user.email "${COMMIT_EMAIL}"
           git add -A
-          git commit -m "Updated quote - $(date '+%Y-%m-%d %H:%M')" || echo "No changes to commit"
+          # Commit message uses Asia/Manila timezone and forces minutes to :00 (exact hour)
+          git commit -m "Updated quote - $(TZ='Asia/Manila' date '+%Y-%m-%d %H:00')" || echo "No changes to commit"
           git push
