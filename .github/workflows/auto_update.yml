@@ -20,11 +20,7 @@ jobs:
 
       - name: Generate quote using https
         run: |
-<<<<<<< HEAD
-          node .github/scripts/update_advice.js
-=======
-          node scripts/update_quote.js
->>>>>>> 98e5994a6af52e706a01fc30e4272c25234c2106
+          node .github/scripts/update_quotes.js
 
       - name: Commit and push changes
         run: |

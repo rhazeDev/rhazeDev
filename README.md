@@ -10,10 +10,12 @@
 </p>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&vCenter=true&color=2959AA&height=30&random=false&width=435&lines=Welcome+to+my+github+profile!;Progress,%20+not+perfection.;One+byte+at+a+time;"/>
 
-<!--ADVICE-START-->
-> 💬 **Don't ever name files or folders using the word "Final".**
-
-<!--ADVICE-END-->
+<!--QUOTES-START-->
+<div style="background:#1a1b26;border-radius:8px;padding:16px;color:#c0caf5;font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;">
+  <p style="margin:0 0 8px 0;font-size:16px;line-height:1.4;">💬 If you think your users are idiots, only idiots will use it.</p>
+  <p style="margin:0;font-size:13px;color:#9aa5d6;">— Linus Torvalds · <span style="opacity:.8">11/8/2025, 10:20:21 AM</span></p>
+</div>
+<!--QUOTES-END-->
 
 
 ### 📈 Stats
