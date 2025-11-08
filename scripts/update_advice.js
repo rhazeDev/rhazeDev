@@ -1,10 +1,10 @@
 import https from "https";
 import fs from "fs";
 
-const API_URL = "https://programming-quotesapi.vercel.app/api/random";
+const API_URL = "https://api.adviceslip.com/advice";
 const README_PATH = "./README.md";
 
-function fetchQuote() {
+function fetchAdvice() {
   return new Promise((resolve, reject) => {
     https
       .get(API_URL, (res) => {
@@ -23,32 +23,32 @@ function fetchQuote() {
   });
 }
 
-async function updateQuote() {
+async function updateAdvice() {
   try {
-    const data = await fetchQuote();
-    const quote = data.quote || data.en || "Keep coding, keep learning!";
-    const author = data.author || "Unknown";
+    const data = await fetchAdvice();
+    console.log("Fetched advice:", data);
+    const advice = data.slip.advice || "Keep coding, keep learning!";
 
     const date = new Date().toLocaleString("en-PH", { timeZone: "Asia/Manila" });
-    const newQuote = `> 💬 **${quote}** — *${author}*\n\n_Last updated: ${date}_`;
+    const newAdvice = `> 💬 **${advice}**\n`;
 
     let readme = fs.readFileSync(README_PATH, "utf8");
 
-    if (readme.includes("<!--QUOTE-START-->")) {
+    if (readme.includes("<!--ADVICE-START-->")) {
       readme = readme.replace(
-        /<!--QUOTE-START-->[\s\S]*<!--QUOTE-END-->/,
-        `<!--QUOTE-START-->\n${newQuote}\n<!--QUOTE-END-->`
+        /<!--ADVICE-START-->[\s\S]*<!--ADVICE-END-->/,
+        `<!--ADVICE-START-->\n${newAdvice}\n<!--ADVICE-END-->`
       );
     } else {
-      readme += `\n\n<!--QUOTE-START-->\n${newQuote}\n<!--QUOTE-END-->\n`;
+      readme += `\n\n<!--ADVICE-START-->\n${newAdvice}\n<!--ADVICE-END-->\n`;
     }
 
     fs.writeFileSync(README_PATH, readme);
-    console.log("✅ Quote updated successfully!");
+    console.log("✅ Advice updated successfully!");
   } catch (err) {
-    console.error("❌ Error fetching quote:", err);
+    console.error("❌ Error fetching advice:", err);
     process.exit(1);
   }
 }
 
-updateQuote();
+updateAdvice();
