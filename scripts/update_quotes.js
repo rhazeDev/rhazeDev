@@ -15,6 +15,80 @@ const getRandomQuote = () => {
   return quotes[randomIndex];
 };
 
+function escapeXml(str) {
+  return String(str)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+}
+
+function wrapText(text, maxChars = 48) {
+  const words = text.split(/\s+/);
+  const lines = [];
+  let line = "";
+
+  for (const w of words) {
+    if ((line + " " + w).trim().length <= maxChars) {
+      line = (line ? line + " " : "") + w;
+    } else {
+      if (line) lines.push(line);
+      line = w;
+    }
+  }
+  if (line) lines.push(line);
+  return lines;
+}
+
+function generateSvgImage(quote, author, date) {
+  const lines = wrapText(quote, 48);
+  const padding = 28;
+  const quoteFontSize = 18; // slightly bigger
+  const metaFontSize = 14;  // slightly bigger meta
+  const lineHeight = 24;
+  const authorHeight = 28;
+
+  // estimate width based on longest line (approx char width)
+  const maxLineLength = Math.max(
+    ...lines.map((l) => l.length),
+    (`— ${author} · ${date}`).length
+  );
+  const approxCharWidth = Math.round(quoteFontSize * 0.6); // ~0.6em per char
+  const maxAllowedWidth = 760;
+  const contentWidth = Math.min(
+    Math.max(padding * 2 + Math.ceil(maxLineLength * approxCharWidth), 240),
+    maxAllowedWidth
+  );
+
+  const textBlockHeight = lines.length * lineHeight;
+  const width = contentWidth;
+  const height = padding * 2 + textBlockHeight + authorHeight;
+
+  const tspans = lines
+    .map((ln, i) => `<tspan x="${padding}" dy="${i === 0 ? '0' : '1.2em'}">${escapeXml(ln)}</tspan>`)
+    .join("");
+
+  const svg = `<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">
+  <style>
+    .bg { fill: #1a1b26; }
+    .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:${quoteFontSize}px; }
+    .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:${metaFontSize}px; }
+  </style>
+  <rect x="0" y="0" width="${width}" height="${height}" rx="10" ry="10" class="bg"/>
+  <text class="quote" x="${padding}" y="${padding + Math.floor(quoteFontSize * 0.9)}" xml:space="preserve">
+    ${tspans}
+  </text>
+  <text class="meta" x="${padding}" y="${padding + textBlockHeight + 18}">
+    — ${escapeXml(author)} · <tspan opacity="0.8">${escapeXml(date)}</tspan>
+  </text>
+</svg>`;
+
+  const encoded = encodeURIComponent(svg).replace(/'/g, "%27").replace(/"/g, "%22");
+  return `<img alt="Quote of the day" src="data:image/svg+xml;utf8,${encoded}" />`;
+}
+
 async function updateQuotes() {
   try {
     const data = getRandomQuote();
@@ -24,11 +98,7 @@ async function updateQuotes() {
     const author = data.author || "Unknown";
     const date = new Date().toLocaleString("en-PH", { timeZone: "Asia/Manila" });
 
-    // Tokyo Night inspired inline styles for README (dark background, soft purple/blue text)
-    const newQuotes = `<div style="background:#1a1b26;border-radius:8px;padding:16px;color:#c0caf5;font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;">
-  <p style="margin:0 0 8px 0;font-size:16px;line-height:1.4;">💬 ${escapeHtml(quotesText)}</p>
-  <p style="margin:0;font-size:13px;color:#9aa5d6;">— ${escapeHtml(author)} · <span style="opacity:.8">${escapeHtml(date)}</span></p>
-</div>`;
+    const newQuotes = generateSvgImage(quotesText, author, date);
 
     let readme = fs.readFileSync(README_PATH, "utf8");
 
@@ -49,11 +119,5 @@ async function updateQuotes() {
   }
 }
 
-function escapeHtml(str) {
-  return String(str)
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;");
-}
-
 updateQuotes();
+// ...existing code...
