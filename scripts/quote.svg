@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="526" height="216" viewBox="0 0 526 216">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="164" viewBox="0 0 536 164">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="526" height="216" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">As long as there were no machines, programming</tspan><tspan x="28" dy="1.2em">was no problem at all; when we had a few weak</tspan><tspan x="28" dy="1.2em">computers, programming became a mild problem,</tspan><tspan x="28" dy="1.2em">and now we have gigantic computers, programming</tspan><tspan x="28" dy="1.2em">has become an equally gigantic problem.</tspan>
+    <tspan x="28" dy="0">Simplicity is hard to build, easy to use, and</tspan><tspan x="28" dy="1.2em">hard to charge for. Complexity is easy to build,</tspan><tspan x="28" dy="1.2em">hard to use, and easy to charge for.</tspan>
   </text>
-  <text class="meta" x="28" y="178">
-    — Edsger W. Dijkstra · <tspan opacity="0.8">11/9/2025, 5:19:28 AM</tspan>
+  <text class="meta" x="28" y="126">
+    — Chris Sacca · <tspan opacity="0.8">11/9/2025, 6:20:02 AM</tspan>
   </text>
 </svg>
