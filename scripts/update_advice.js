@@ -29,8 +29,12 @@ async function updateAdvice() {
     console.log("Fetched advice:", data);
     const advice = data.slip.advice || "Keep coding, keep learning!";
 
+<<<<<<< HEAD:scripts/update_advice.js
     const date = new Date().toLocaleString("en-PH", { timeZone: "Asia/Manila" });
     const newAdvice = `> 💬 **${advice}**\n`;
+=======
+    const newQuote = `> 💬 **${quote}** — *${author}*`;
+>>>>>>> 98e5994a6af52e706a01fc30e4272c25234c2106:scripts/update_quote.js
 
     let readme = fs.readFileSync(README_PATH, "utf8");
 
