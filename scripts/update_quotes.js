@@ -1,5 +1,5 @@
-import fs from "fs";
-import path from "path";
+const fs = require("fs");
+const path = require("path");
 
 const QUOTES_PATH = path.join(process.cwd(), "scripts", "quotes.json");
 const README_PATH = path.join(process.cwd(), "README.md");
