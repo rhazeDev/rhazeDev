@@ -1,4 +1,3 @@
-// ...existing code...
 import fs from "fs";
 import path from "path";
 
@@ -44,17 +43,16 @@ function wrapText(text, maxChars = 48) {
 function generateSvgImage(quote, author, date) {
   const lines = wrapText(quote, 48);
   const padding = 28;
-  const quoteFontSize = 18; // slightly bigger
-  const metaFontSize = 14;  // slightly bigger meta
-  const lineHeight = 24;
-  const authorHeight = 28;
+  const quoteFontSize = 20;
+  const metaFontSize = 15;
+  const lineHeight = 26;
+  const authorHeight = 30;
 
-  // estimate width based on longest line (approx char width)
   const maxLineLength = Math.max(
     ...lines.map((l) => l.length),
     (`— ${author} · ${date}`).length
   );
-  const approxCharWidth = Math.round(quoteFontSize * 0.6); // ~0.6em per char
+  const approxCharWidth = Math.round(quoteFontSize * 0.5);
   const maxAllowedWidth = 760;
   const contentWidth = Math.min(
     Math.max(padding * 2 + Math.ceil(maxLineLength * approxCharWidth), 240),
@@ -76,17 +74,16 @@ function generateSvgImage(quote, author, date) {
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:${quoteFontSize}px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:${metaFontSize}px; }
   </style>
-  <rect x="0" y="0" width="${width}" height="${height}" rx="10" ry="10" class="bg"/>
-  <text class="quote" x="${padding}" y="${padding + Math.floor(quoteFontSize * 0.9)}" xml:space="preserve">
+  <rect x="0" y="0" width="${width}" height="${height}" rx="12" ry="12" class="bg"/>
+  <text class="quote" x="${padding}" y="${padding + Math.floor(quoteFontSize * 0.95)}" xml:space="preserve">
     ${tspans}
   </text>
-  <text class="meta" x="${padding}" y="${padding + textBlockHeight + 18}">
+  <text class="meta" x="${padding}" y="${padding + textBlockHeight + 20}">
     — ${escapeXml(author)} · <tspan opacity="0.8">${escapeXml(date)}</tspan>
   </text>
 </svg>`;
 
-  const encoded = encodeURIComponent(svg).replace(/'/g, "%27").replace(/"/g, "%22");
-  return `<img alt="Quote of the day" src="data:image/svg+xml;utf8,${encoded}" />`;
+  return svg;
 }
 
 async function updateQuotes() {
@@ -98,7 +95,12 @@ async function updateQuotes() {
     const author = data.author || "Unknown";
     const date = new Date().toLocaleString("en-PH", { timeZone: "Asia/Manila" });
 
-    const newQuotes = generateSvgImage(quotesText, author, date);
+    const svg = generateSvgImage(quotesText, author, date);
+
+    const SVG_PATH = path.join(process.cwd(), "scripts", "quote.svg");
+    fs.writeFileSync(SVG_PATH, svg, "utf8");
+
+    const newQuotes = `<img alt="Quote of the day" src="./scripts/quote.svg" />`;
 
     let readme = fs.readFileSync(README_PATH, "utf8");
 
@@ -112,7 +114,7 @@ async function updateQuotes() {
     }
 
     fs.writeFileSync(README_PATH, readme, "utf8");
-    console.log("✅ Quotes updated successfully!");
+    console.log("✅ Quotes updated successfully! (wrote scripts/quote.svg)");
   } catch (err) {
     console.error("❌ Error updating quotes:", err);
     process.exit(1);
@@ -120,4 +122,3 @@ async function updateQuotes() {
 }
 
 updateQuotes();
-// ...existing code...
