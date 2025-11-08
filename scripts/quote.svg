@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="536" height="190" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">W​henever I have to think to understand what the</tspan><tspan x="28" dy="1.2em">code is doing, I ask myself if I can refactor</tspan><tspan x="28" dy="1.2em">the code to make that understanding more</tspan><tspan x="28" dy="1.2em">immediately apparent.</tspan>
+    <tspan x="28" dy="0">People think that computer science is the art of</tspan><tspan x="28" dy="1.2em">geniuses but the actual reality is the opposite,</tspan><tspan x="28" dy="1.2em">just many people doing things that build on each</tspan><tspan x="28" dy="1.2em">other, like a wall of mini stones.</tspan>
   </text>
   <text class="meta" x="28" y="152">
-    — Martin Fowler · <tspan opacity="0.8">11/8/2025, 6:22:51 PM</tspan>
+    — Donald Knuth · <tspan opacity="0.8">11/8/2025, 7:17:56 PM</tspan>
   </text>
 </svg>
