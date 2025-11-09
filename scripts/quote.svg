@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">There certainly will be job disruption. Because</tspan><tspan x="28" dy="1.2em">what&#39;s going to happen is robots will be able to</tspan><tspan x="28" dy="1.2em">do everything better than us.</tspan>
+    <tspan x="28" dy="0">The separation of architectural effort from</tspan><tspan x="28" dy="1.2em">implementation is a very powerful way of getting</tspan><tspan x="28" dy="1.2em">conceptual integrity on very large projects.</tspan>
   </text>
   <text class="meta" x="28" y="126">
-    — Elon Musk · <tspan opacity="0.8">11/10/2025, 12:26:43 AM</tspan>
+    — Fred Brooks · <tspan opacity="0.8">11/10/2025, 1:18:49 AM</tspan>
   </text>
 </svg>
