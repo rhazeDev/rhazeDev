@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="536" height="164" viewBox="0 0 536 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="242" viewBox="0 0 536 242">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="242" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">We may say most aptly that the Analytical Engine</tspan><tspan x="28" dy="1.2em">weaves algebraical patterns just as the Jacquard</tspan><tspan x="28" dy="1.2em">loom weaves flowers and leaves.</tspan>
+    <tspan x="28" dy="0">The most powerful programming language is Lisp.</tspan><tspan x="28" dy="1.2em">If you don&#39;t know Lisp (or its variant, Scheme),</tspan><tspan x="28" dy="1.2em">you don&#39;t know what it means for a programming</tspan><tspan x="28" dy="1.2em">language to be powerful and elegant. Once you</tspan><tspan x="28" dy="1.2em">learn Lisp, you will understand what is lacking</tspan><tspan x="28" dy="1.2em">in most other languages.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — Ada Lovelace · <tspan opacity="0.8">11/9/2025, 8:44:07 PM</tspan>
+  <text class="meta" x="28" y="204">
+    — Richard Stallman · <tspan opacity="0.8">11/9/2025, 9:26:59 PM</tspan>
   </text>
 </svg>
