@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="536" height="242" viewBox="0 0 536 242">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="164" viewBox="0 0 536 164">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="536" height="242" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Don&#39;t blame me for the fact that competent</tspan><tspan x="28" dy="1.2em">programming will be too difficult for &quot;the</tspan><tspan x="28" dy="1.2em">average programmer&quot; — you must not fall into the</tspan><tspan x="28" dy="1.2em">trap of rejecting a surgical technique because</tspan><tspan x="28" dy="1.2em">it is beyond the capabilities of the barber in</tspan><tspan x="28" dy="1.2em">his shop around the corner.</tspan>
+    <tspan x="28" dy="0">There certainly will be job disruption. Because</tspan><tspan x="28" dy="1.2em">what&#39;s going to happen is robots will be able to</tspan><tspan x="28" dy="1.2em">do everything better than us.</tspan>
   </text>
-  <text class="meta" x="28" y="204">
-    — Edsger W. Dijkstra · <tspan opacity="0.8">11/9/2025, 11:21:09 PM</tspan>
+  <text class="meta" x="28" y="126">
+    — Elon Musk · <tspan opacity="0.8">11/10/2025, 12:26:43 AM</tspan>
   </text>
 </svg>
