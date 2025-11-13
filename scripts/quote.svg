@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="526" height="138" viewBox="0 0 526 138">
+<svg xmlns="http://www.w3.org/2000/svg" width="516" height="164" viewBox="0 0 516 164">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="526" height="138" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="516" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Much of the essence of building a program is in</tspan><tspan x="28" dy="1.2em">fact the debugging of the specification.</tspan>
+    <tspan x="28" dy="0">An organisation that treats its programmers as</tspan><tspan x="28" dy="1.2em">morons will soon have programmers that are</tspan><tspan x="28" dy="1.2em">willing and able to act like morons only.</tspan>
   </text>
-  <text class="meta" x="28" y="100">
-    — Fred Brooks · <tspan opacity="0.8">11/13/2025, 7:23:08 AM</tspan>
+  <text class="meta" x="28" y="126">
+    — Bjarne Stroustrup · <tspan opacity="0.8">11/13/2025, 9:57:33 AM</tspan>
   </text>
 </svg>
