@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="476" height="138" viewBox="0 0 476 138">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="190" viewBox="0 0 536 190">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="476" height="138" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="190" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">The very best technology never has as much</tspan><tspan x="28" dy="1.2em">impact as girlfriend or boyfriend trouble.</tspan>
+    <tspan x="28" dy="0">Any intelligent fool can make things bigger,</tspan><tspan x="28" dy="1.2em">more complex, and more violent. It takes a touch</tspan><tspan x="28" dy="1.2em">of genius – and a lot of courage – to move in</tspan><tspan x="28" dy="1.2em">the opposite direction.</tspan>
   </text>
-  <text class="meta" x="28" y="100">
-    — Tom DeMarco · <tspan opacity="0.8">11/17/2025, 2:37:43 PM</tspan>
+  <text class="meta" x="28" y="152">
+    — Albert Einstein · <tspan opacity="0.8">11/17/2025, 3:24:59 PM</tspan>
   </text>
 </svg>
