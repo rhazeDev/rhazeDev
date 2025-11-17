@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="516" height="164" viewBox="0 0 516 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="242" viewBox="0 0 536 242">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="516" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="242" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">An organisation that treats its programmers as</tspan><tspan x="28" dy="1.2em">morons will soon have programmers that are</tspan><tspan x="28" dy="1.2em">willing and able to act like morons only.</tspan>
+    <tspan x="28" dy="0">If you want to set off and go develop some grand</tspan><tspan x="28" dy="1.2em">new thing, you don&#39;t need millions of dollars of</tspan><tspan x="28" dy="1.2em">capitalization. You need enough pizza and Diet</tspan><tspan x="28" dy="1.2em">Coke to stick in your refrigerator, a cheap PC</tspan><tspan x="28" dy="1.2em">to work on, and the dedication to go through</tspan><tspan x="28" dy="1.2em">with it.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — Bjarne Stroustrup · <tspan opacity="0.8">11/17/2025, 10:25:40 PM</tspan>
+  <text class="meta" x="28" y="204">
+    — John Carmack · <tspan opacity="0.8">11/17/2025, 11:28:03 PM</tspan>
   </text>
 </svg>
