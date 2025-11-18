@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="506" height="138" viewBox="0 0 506 138">
+<svg xmlns="http://www.w3.org/2000/svg" width="506" height="268" viewBox="0 0 506 268">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="506" height="138" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="506" height="268" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Computer programs are the most complex things</tspan><tspan x="28" dy="1.2em">that humans make.</tspan>
+    <tspan x="28" dy="0">The programmer, like the poet, works only</tspan><tspan x="28" dy="1.2em">slightly removed from pure thought-stuff. He</tspan><tspan x="28" dy="1.2em">builds his castles in the air, from air,</tspan><tspan x="28" dy="1.2em">creating by exertion of the imagination. Few</tspan><tspan x="28" dy="1.2em">media of creation are so flexible, so easy to</tspan><tspan x="28" dy="1.2em">polish and rework, so readily capable of</tspan><tspan x="28" dy="1.2em">realizing grand conceptual structures.</tspan>
   </text>
-  <text class="meta" x="28" y="100">
-    — Douglas Crockford · <tspan opacity="0.8">11/18/2025, 4:33:32 PM</tspan>
+  <text class="meta" x="28" y="230">
+    — Fred Brooks · <tspan opacity="0.8">11/18/2025, 5:27:54 PM</tspan>
   </text>
 </svg>
