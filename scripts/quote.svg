@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="506" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">They were saying computers deal with numbers.</tspan><tspan x="28" dy="1.2em">This was absolutely nonsense. Computers deal</tspan><tspan x="28" dy="1.2em">with arbitrary information of any kind.</tspan>
+    <tspan x="28" dy="0">Some people, when confronted with a problem,</tspan><tspan x="28" dy="1.2em">think ‘I know, I’ll use regular expressions.’</tspan><tspan x="28" dy="1.2em">Now they have two problems.</tspan>
   </text>
   <text class="meta" x="28" y="126">
-    — Ted Nelson · <tspan opacity="0.8">11/20/2025, 9:33:39 PM</tspan>
+    — Jamie Zawinski · <tspan opacity="0.8">11/20/2025, 10:25:13 PM</tspan>
   </text>
 </svg>
