@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="486" height="138" viewBox="0 0 486 138">
+<svg xmlns="http://www.w3.org/2000/svg" width="526" height="164" viewBox="0 0 526 164">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="486" height="138" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="526" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">I think you should always bear in mind that</tspan><tspan x="28" dy="1.2em">entropy is not on your side.</tspan>
+    <tspan x="28" dy="0">Reliable computations are obtainable from buggy</tspan><tspan x="28" dy="1.2em">programs, which after all, are the only kind of</tspan><tspan x="28" dy="1.2em">programs there are.</tspan>
   </text>
-  <text class="meta" x="28" y="100">
-    — Elon Musk · <tspan opacity="0.8">11/23/2025, 10:09:55 AM</tspan>
+  <text class="meta" x="28" y="126">
+    — Daniel T. Barry · <tspan opacity="0.8">11/23/2025, 11:58:21 AM</tspan>
   </text>
 </svg>
