@@ -24,7 +24,7 @@
 
 ### 🔝 Most used languages
 
-&emsp;&emsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhazeDev&layout=compact&hide=css,html,nix,scheme&theme=tokyonight"/>
+&emsp;&emsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhazeDev&layout=compact&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rhaze&theme=tokyonight&layout=compact&hide=html,css&langs_count=6&custom_title=Time%20Well%20Spent"/>
 
 ### 📈 Productivity Stats
