@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="526" height="138" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Codes are a puzzle. A game, just like any other</tspan><tspan x="28" dy="1.2em">game.</tspan>
+    <tspan x="28" dy="0">If you think your users are idiots, only idiots</tspan><tspan x="28" dy="1.2em">will use it.</tspan>
   </text>
   <text class="meta" x="28" y="100">
-    — Alan Turing · <tspan opacity="0.8">11/25/2025, 12:28:51 AM</tspan>
+    — Linus Torvalds · <tspan opacity="0.8">11/25/2025, 1:23:55 AM</tspan>
   </text>
 </svg>
