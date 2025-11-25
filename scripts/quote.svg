@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="526" height="216" viewBox="0 0 526 216">
+<svg xmlns="http://www.w3.org/2000/svg" width="496" height="216" viewBox="0 0 496 216">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="526" height="216" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="496" height="216" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">The situation is so much better for programmers</tspan><tspan x="28" dy="1.2em">today - a cheap used PC, a linux CD, and an</tspan><tspan x="28" dy="1.2em">internet account, and you have all the tools</tspan><tspan x="28" dy="1.2em">necessary to work your way to any level of</tspan><tspan x="28" dy="1.2em">programming skill you want to shoot for.</tspan>
+    <tspan x="28" dy="0">With the right programming, a computer can</tspan><tspan x="28" dy="1.2em">become a theater, a musical instrument, a</tspan><tspan x="28" dy="1.2em">reference book, a chess opponent. No other</tspan><tspan x="28" dy="1.2em">entity in the world except a human being has</tspan><tspan x="28" dy="1.2em">such an adaptable, universal nature.</tspan>
   </text>
   <text class="meta" x="28" y="178">
-    — John Carmack · <tspan opacity="0.8">11/26/2025, 3:21:29 AM</tspan>
+    — Danny Hillis · <tspan opacity="0.8">11/26/2025, 4:28:36 AM</tspan>
   </text>
 </svg>
