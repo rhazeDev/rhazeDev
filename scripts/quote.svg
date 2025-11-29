@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="516" height="138" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">No matter how slow you are writing clean code,</tspan><tspan x="28" dy="1.2em">you will always be slower if you make a mess.</tspan>
+    <tspan x="28" dy="0">What is simplicity? Simplicity is the shortest</tspan><tspan x="28" dy="1.2em">path to a solution.</tspan>
   </text>
   <text class="meta" x="28" y="100">
-    — Robert C. Martin · <tspan opacity="0.8">11/29/2025, 1:24:33 PM</tspan>
+    — Ward Cunningham · <tspan opacity="0.8">11/29/2025, 2:35:21 PM</tspan>
   </text>
 </svg>
