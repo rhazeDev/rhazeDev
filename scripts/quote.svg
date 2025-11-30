@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="536" height="164" viewBox="0 0 536 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="666" height="268" viewBox="0 0 666 268">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="666" height="268" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Artificial intelligence is the science of making</tspan><tspan x="28" dy="1.2em">machines do things that would require</tspan><tspan x="28" dy="1.2em">intelligence if done by men.</tspan>
+    <tspan x="28" dy="0">Reviews and pair programming provide programmers</tspan><tspan x="28" dy="1.2em">with something their work would not otherwise</tspan><tspan x="28" dy="1.2em">have: an audience. Sunlight, it is said is a</tspan><tspan x="28" dy="1.2em">powerful disinfectant. An immediate audience of</tspan><tspan x="28" dy="1.2em">one&#39;s peers provides immediate incentives to</tspan><tspan x="28" dy="1.2em">programmers to keep their code clear and</tspan><tspan x="28" dy="1.2em">comprehensible, as well as functional.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — Marvin Minsky · <tspan opacity="0.8">11/30/2025, 11:58:44 AM</tspan>
+  <text class="meta" x="28" y="230">
+    — Joseph Yoder (computer scientist) · <tspan opacity="0.8">11/30/2025, 12:39:57 PM</tspan>
   </text>
 </svg>
