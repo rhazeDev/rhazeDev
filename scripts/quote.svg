@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="536" height="216" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Software is usually expected to be modified over</tspan><tspan x="28" dy="1.2em">the course of its productive life. The process</tspan><tspan x="28" dy="1.2em">of converting one correct program into a</tspan><tspan x="28" dy="1.2em">different correct program is extremely</tspan><tspan x="28" dy="1.2em">challenging.</tspan>
+    <tspan x="28" dy="0">The only difference between a FA [finite</tspan><tspan x="28" dy="1.2em">automata] and a TM [Turing machine] is that the</tspan><tspan x="28" dy="1.2em">TM, unlike the FA, has paper and pencil. Think</tspan><tspan x="28" dy="1.2em">about it. It tells you something about the power</tspan><tspan x="28" dy="1.2em">of writing.</tspan>
   </text>
   <text class="meta" x="28" y="178">
-    — Douglas Crockford · <tspan opacity="0.8">12/2/2025, 6:29:27 PM</tspan>
+    — Manuel Blum · <tspan opacity="0.8">12/2/2025, 7:24:26 PM</tspan>
   </text>
 </svg>
