@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="536" height="164" viewBox="0 0 536 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="526" height="190" viewBox="0 0 526 190">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="526" height="190" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Very good professional programmers are ten times</tspan><tspan x="28" dy="1.2em">as productive as poor ones, at same training and</tspan><tspan x="28" dy="1.2em">two-year experience level.</tspan>
+    <tspan x="28" dy="0">I start with drawing the data structures, and I</tspan><tspan x="28" dy="1.2em">spend a lot of time thinking about them. I also</tspan><tspan x="28" dy="1.2em">think about what the program has to go through</tspan><tspan x="28" dy="1.2em">before I start writing code.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — Fred Brooks · <tspan opacity="0.8">12/4/2025, 2:39:25 AM</tspan>
+  <text class="meta" x="28" y="152">
+    — Gary Kildall · <tspan opacity="0.8">12/4/2025, 3:22:29 AM</tspan>
   </text>
 </svg>
