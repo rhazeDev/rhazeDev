@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="506" height="164" viewBox="0 0 506 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="526" height="164" viewBox="0 0 526 164">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="506" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="526" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Computer languages of the future will be more</tspan><tspan x="28" dy="1.2em">concerned with goals and less with procedures</tspan><tspan x="28" dy="1.2em">specified by the programmer.</tspan>
+    <tspan x="28" dy="0">Sometimes there is a silver bullet for boosting</tspan><tspan x="28" dy="1.2em">software engineering productivity. But you need</tspan><tspan x="28" dy="1.2em">to shoot the right person.</tspan>
   </text>
   <text class="meta" x="28" y="126">
-    — Marvin Minsky · <tspan opacity="0.8">12/7/2025, 12:29:19 AM</tspan>
+    — Michael Stal · <tspan opacity="0.8">12/7/2025, 1:20:01 AM</tspan>
   </text>
 </svg>
