@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="526" height="138" viewBox="0 0 526 138">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="216" viewBox="0 0 536 216">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="526" height="138" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="216" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">There&#39;s nothing more permanent than a temporary</tspan><tspan x="28" dy="1.2em">hack.</tspan>
+    <tspan x="28" dy="0">Another danger is that commercial pressures of</tspan><tspan x="28" dy="1.2em">one sort or another will divert the attention of</tspan><tspan x="28" dy="1.2em">the best thinkers from real innovation to</tspan><tspan x="28" dy="1.2em">exploitation of the current fad, from</tspan><tspan x="28" dy="1.2em">prospecting to mining a known lode.</tspan>
   </text>
-  <text class="meta" x="28" y="100">
-    — Kyle Simpson · <tspan opacity="0.8">12/6/2025, 1:24:17 PM</tspan>
+  <text class="meta" x="28" y="178">
+    — Dennis Ritchie · <tspan opacity="0.8">12/6/2025, 2:35:03 PM</tspan>
   </text>
 </svg>
