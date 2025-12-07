@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="526" height="216" viewBox="0 0 526 216">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="138" viewBox="0 0 536 138">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="526" height="216" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="138" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">In fact, in the 1980s I often came across newly</tspan><tspan x="28" dy="1.2em">graduated computer science majors who had never</tspan><tspan x="28" dy="1.2em">seen a real program in their lives. They had</tspan><tspan x="28" dy="1.2em">only seen toy exercises, school exercises,</tspan><tspan x="28" dy="1.2em">because every real program was a trade secret.</tspan>
+    <tspan x="28" dy="0">In order to understand recursion, one must first</tspan><tspan x="28" dy="1.2em">understand recursion.</tspan>
   </text>
-  <text class="meta" x="28" y="178">
-    — Richard Stallman · <tspan opacity="0.8">12/7/2025, 3:23:11 PM</tspan>
+  <text class="meta" x="28" y="100">
+    — Anonymous · <tspan opacity="0.8">12/7/2025, 4:30:17 PM</tspan>
   </text>
 </svg>
