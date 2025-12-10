@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="536" height="320" viewBox="0 0 536 320">
+<svg xmlns="http://www.w3.org/2000/svg" width="526" height="216" viewBox="0 0 526 216">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="536" height="320" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="526" height="216" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Anyone who has ever written a program knows that</tspan><tspan x="28" dy="1.2em">telling a computer what you want it to do is not</tspan><tspan x="28" dy="1.2em">as easy as it sounds. Every detail of the</tspan><tspan x="28" dy="1.2em">computer’s desired operation must be precisely</tspan><tspan x="28" dy="1.2em">described. For instance, if you tell an</tspan><tspan x="28" dy="1.2em">accounting program to bill your clients for the</tspan><tspan x="28" dy="1.2em">amount that each owes, then the computer will</tspan><tspan x="28" dy="1.2em">send out a weekly bill for $0.00 to clients who</tspan><tspan x="28" dy="1.2em">owe nothing.</tspan>
+    <tspan x="28" dy="0">The competent programmer is fully aware of the</tspan><tspan x="28" dy="1.2em">strictly limited size of his own skull;</tspan><tspan x="28" dy="1.2em">therefore he approaches the programming task in</tspan><tspan x="28" dy="1.2em">full humility, and among other things he avoids</tspan><tspan x="28" dy="1.2em">clever tricks like the plague</tspan>
   </text>
-  <text class="meta" x="28" y="282">
-    — Danny Hillis · <tspan opacity="0.8">12/10/2025, 10:28:49 PM</tspan>
+  <text class="meta" x="28" y="178">
+    — Edsger W. Dijkstra · <tspan opacity="0.8">12/10/2025, 11:30:39 PM</tspan>
   </text>
 </svg>
