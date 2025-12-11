@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="536" height="164" viewBox="0 0 536 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="216" viewBox="0 0 536 216">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="216" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">The separation of architectural effort from</tspan><tspan x="28" dy="1.2em">implementation is a very powerful way of getting</tspan><tspan x="28" dy="1.2em">conceptual integrity on very large projects.</tspan>
+    <tspan x="28" dy="0">The only difference between a FA [finite</tspan><tspan x="28" dy="1.2em">automata] and a TM [Turing machine] is that the</tspan><tspan x="28" dy="1.2em">TM, unlike the FA, has paper and pencil. Think</tspan><tspan x="28" dy="1.2em">about it. It tells you something about the power</tspan><tspan x="28" dy="1.2em">of writing.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — Fred Brooks · <tspan opacity="0.8">12/11/2025, 11:31:22 PM</tspan>
+  <text class="meta" x="28" y="178">
+    — Manuel Blum · <tspan opacity="0.8">12/12/2025, 12:37:54 AM</tspan>
   </text>
 </svg>
