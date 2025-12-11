@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="536" height="138" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">I think of myself as a writer. Sometimes I write</tspan><tspan x="28" dy="1.2em">in English and sometimes I write in JavaScript.</tspan>
+    <tspan x="28" dy="0">Computer Science is no more about computers than</tspan><tspan x="28" dy="1.2em">astronomy is about telescopes.</tspan>
   </text>
   <text class="meta" x="28" y="100">
-    — Douglas Crockford · <tspan opacity="0.8">12/11/2025, 6:30:52 PM</tspan>
+    — Edsger W. Dijkstra · <tspan opacity="0.8">12/11/2025, 7:24:16 PM</tspan>
   </text>
 </svg>
