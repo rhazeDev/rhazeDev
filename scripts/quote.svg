@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="526" height="242" viewBox="0 0 526 242">
+<svg xmlns="http://www.w3.org/2000/svg" width="596" height="190" viewBox="0 0 596 190">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="526" height="242" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="596" height="190" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Thoroughly testing a program is impossible</tspan><tspan x="28" dy="1.2em">(requires unbounded number of test cases); so</tspan><tspan x="28" dy="1.2em">try to choose test cases that will expose all</tspan><tspan x="28" dy="1.2em">errors. That’s very difficult, especially since</tspan><tspan x="28" dy="1.2em">we do not know what all the errors are, and if</tspan><tspan x="28" dy="1.2em">we did, we would not need the test cases!</tspan>
+    <tspan x="28" dy="0">If you start removing things, if you get to the</tspan><tspan x="28" dy="1.2em">point where if you were to remove anything more</tspan><tspan x="28" dy="1.2em">it would not work any more — at this point it is</tspan><tspan x="28" dy="1.2em">beautiful.</tspan>
   </text>
-  <text class="meta" x="28" y="204">
-    — Daniel T. Barry · <tspan opacity="0.8">12/11/2025, 10:03:51 AM</tspan>
+  <text class="meta" x="28" y="152">
+    — Joe Armstrong (programmer) · <tspan opacity="0.8">12/11/2025, 11:58:31 AM</tspan>
   </text>
 </svg>
