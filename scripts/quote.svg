@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="526" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Software is a discipline of detail, and that is</tspan><tspan x="28" dy="1.2em">a deep, horrendous fundamental problem with</tspan><tspan x="28" dy="1.2em">software.</tspan>
+    <tspan x="28" dy="0">LISP has assisted a number of our most gifted</tspan><tspan x="28" dy="1.2em">fellow humans in thinking previously impossible</tspan><tspan x="28" dy="1.2em">thoughts.</tspan>
   </text>
   <text class="meta" x="28" y="126">
-    — L. Peter Deutsch · <tspan opacity="0.8">12/14/2025, 2:32:57 AM</tspan>
+    — Edsger W. Dijkstra · <tspan opacity="0.8">12/14/2025, 3:18:58 AM</tspan>
   </text>
 </svg>
