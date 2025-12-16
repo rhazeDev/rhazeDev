@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="566" height="138" viewBox="0 0 566 138">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="242" viewBox="0 0 536 242">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="566" height="138" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="242" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">The top 5% of programmers probably write 99% of</tspan><tspan x="28" dy="1.2em">the good software.</tspan>
+    <tspan x="28" dy="0">The most powerful programming language is Lisp.</tspan><tspan x="28" dy="1.2em">If you don&#39;t know Lisp (or its variant, Scheme),</tspan><tspan x="28" dy="1.2em">you don&#39;t know what it means for a programming</tspan><tspan x="28" dy="1.2em">language to be powerful and elegant. Once you</tspan><tspan x="28" dy="1.2em">learn Lisp, you will understand what is lacking</tspan><tspan x="28" dy="1.2em">in most other languages.</tspan>
   </text>
-  <text class="meta" x="28" y="100">
-    — Paul Graham (programmer) · <tspan opacity="0.8">12/16/2025, 1:28:12 PM</tspan>
+  <text class="meta" x="28" y="204">
+    — Richard Stallman · <tspan opacity="0.8">12/16/2025, 2:41:10 PM</tspan>
   </text>
 </svg>
