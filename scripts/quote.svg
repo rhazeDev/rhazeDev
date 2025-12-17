@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="506" height="216" viewBox="0 0 506 216">
+<svg xmlns="http://www.w3.org/2000/svg" width="656" height="138" viewBox="0 0 656 138">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="506" height="216" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="656" height="138" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Adding people to a software project increases</tspan><tspan x="28" dy="1.2em">the total effort necessary in three ways: the</tspan><tspan x="28" dy="1.2em">work and disruption of repartitioning itself,</tspan><tspan x="28" dy="1.2em">training the new people, and added</tspan><tspan x="28" dy="1.2em">intercommunication.</tspan>
+    <tspan x="28" dy="0">An evolving system increases its complexity</tspan><tspan x="28" dy="1.2em">unless work is done to reduce it.</tspan>
   </text>
-  <text class="meta" x="28" y="178">
-    — Fred Brooks · <tspan opacity="0.8">12/18/2025, 6:25:25 AM</tspan>
+  <text class="meta" x="28" y="100">
+    — Manny Lehman (computer scientist) · <tspan opacity="0.8">12/18/2025, 7:25:04 AM</tspan>
   </text>
 </svg>
