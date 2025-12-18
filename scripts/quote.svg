@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="446" height="138" viewBox="0 0 446 138">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="164" viewBox="0 0 536 164">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="446" height="138" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Low-level programming is good for the</tspan><tspan x="28" dy="1.2em">programmer’s soul.</tspan>
+    <tspan x="28" dy="0">Nobody knows how to build really complicated</tspan><tspan x="28" dy="1.2em">hardware systems, so designing hardware tends to</tspan><tspan x="28" dy="1.2em">be simpler. Software is much more complicated.</tspan>
   </text>
-  <text class="meta" x="28" y="100">
-    — John Carmack · <tspan opacity="0.8">12/19/2025, 3:20:27 AM</tspan>
+  <text class="meta" x="28" y="126">
+    — Butler Lampson · <tspan opacity="0.8">12/19/2025, 4:26:31 AM</tspan>
   </text>
 </svg>
