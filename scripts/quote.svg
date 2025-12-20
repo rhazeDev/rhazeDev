@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="536" height="242" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">C++ certainly has its good points. But by and</tspan><tspan x="28" dy="1.2em">large I think it&#39;s a bad language. It does a lot</tspan><tspan x="28" dy="1.2em">of things half well and it’s just a garbage heap</tspan><tspan x="28" dy="1.2em">of ideas that are mutually exclusive. It’s way</tspan><tspan x="28" dy="1.2em">too big, way too complex. And it’s obviously</tspan><tspan x="28" dy="1.2em">built by a committee.</tspan>
+    <tspan x="28" dy="0">Don&#39;t blame me for the fact that competent</tspan><tspan x="28" dy="1.2em">programming will be too difficult for &quot;the</tspan><tspan x="28" dy="1.2em">average programmer&quot; — you must not fall into the</tspan><tspan x="28" dy="1.2em">trap of rejecting a surgical technique because</tspan><tspan x="28" dy="1.2em">it is beyond the capabilities of the barber in</tspan><tspan x="28" dy="1.2em">his shop around the corner.</tspan>
   </text>
   <text class="meta" x="28" y="204">
-    — Ken Thompson · <tspan opacity="0.8">12/20/2025, 5:25:04 PM</tspan>
+    — Edsger W. Dijkstra · <tspan opacity="0.8">12/20/2025, 6:25:03 PM</tspan>
   </text>
 </svg>
