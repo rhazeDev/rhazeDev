@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="496" height="164" viewBox="0 0 496 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="242" viewBox="0 0 536 242">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="496" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="242" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Should array indices start at 0 or 1? My</tspan><tspan x="28" dy="1.2em">compromise of 0.5 was rejected without, I</tspan><tspan x="28" dy="1.2em">thought, proper consideration.</tspan>
+    <tspan x="28" dy="0">People are mistaken when they think that</tspan><tspan x="28" dy="1.2em">technology just automatically improves. It does</tspan><tspan x="28" dy="1.2em">not automatically improve. It only improves if a</tspan><tspan x="28" dy="1.2em">lot of people work very hard to make it better,</tspan><tspan x="28" dy="1.2em">and actually it will, I think, by itself</tspan><tspan x="28" dy="1.2em">degrade, actually.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — Stan Kelly-Bootle · <tspan opacity="0.8">12/20/2025, 9:56:29 AM</tspan>
+  <text class="meta" x="28" y="204">
+    — Elon Musk · <tspan opacity="0.8">12/20/2025, 11:20:22 AM</tspan>
   </text>
 </svg>
