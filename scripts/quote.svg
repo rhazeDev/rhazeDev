@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="516" height="164" viewBox="0 0 516 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="566" height="138" viewBox="0 0 566 138">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="516" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="566" height="138" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">I have yet to see any problem, however</tspan><tspan x="28" dy="1.2em">complicated, which when looked at in the right</tspan><tspan x="28" dy="1.2em">way, did not become more complicated.</tspan>
+    <tspan x="28" dy="0">In programming the hard part isn’t solving</tspan><tspan x="28" dy="1.2em">problems, but deciding what problems to solve.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — Poul Anderson · <tspan opacity="0.8">12/20/2025, 12:31:05 PM</tspan>
+  <text class="meta" x="28" y="100">
+    — Paul Graham (programmer) · <tspan opacity="0.8">12/20/2025, 1:26:02 PM</tspan>
   </text>
 </svg>
