@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="536" height="164" viewBox="0 0 536 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="516" height="268" viewBox="0 0 516 268">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="516" height="268" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Every now and then I feel a temptation to design</tspan><tspan x="28" dy="1.2em">a programming language but then I just lie down</tspan><tspan x="28" dy="1.2em">until it goes away.</tspan>
+    <tspan x="28" dy="0">Computer science research is different from</tspan><tspan x="28" dy="1.2em">these more traditional disciplines.</tspan><tspan x="28" dy="1.2em">Philosophically it differs from the physical</tspan><tspan x="28" dy="1.2em">sciences because it seeks not to discover,</tspan><tspan x="28" dy="1.2em">explain, or exploit the natural world, but</tspan><tspan x="28" dy="1.2em">instead to study the properties of machines of</tspan><tspan x="28" dy="1.2em">human creation.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — L. Peter Deutsch · <tspan opacity="0.8">12/20/2025, 7:19:53 PM</tspan>
+  <text class="meta" x="28" y="230">
+    — Dennis Ritchie · <tspan opacity="0.8">12/20/2025, 8:49:07 PM</tspan>
   </text>
 </svg>
