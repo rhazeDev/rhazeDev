@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="476" height="138" viewBox="0 0 476 138">
+<svg xmlns="http://www.w3.org/2000/svg" width="576" height="216" viewBox="0 0 576 216">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="476" height="138" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="576" height="216" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Dealing with failure is easy: Work hard to</tspan><tspan x="28" dy="1.2em">improve.</tspan>
+    <tspan x="28" dy="0">Instead of the progression of tens, I have for</tspan><tspan x="28" dy="1.2em">many years used the simplest progression of all,</tspan><tspan x="28" dy="1.2em">which proceeds by twos, having found that it is</tspan><tspan x="28" dy="1.2em">useful for the perfection of the science of</tspan><tspan x="28" dy="1.2em">numbers.</tspan>
   </text>
-  <text class="meta" x="28" y="100">
-    — Alan Perlis · <tspan opacity="0.8">12/21/2025, 4:25:58 AM</tspan>
+  <text class="meta" x="28" y="178">
+    — Gottfried Wilhelm Leibniz · <tspan opacity="0.8">12/21/2025, 5:21:08 AM</tspan>
   </text>
 </svg>
