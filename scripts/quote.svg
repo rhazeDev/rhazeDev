@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="586" height="164" viewBox="0 0 586 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="516" height="164" viewBox="0 0 516 164">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="586" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="516" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">As numbers are reduced to the simplest</tspan><tspan x="28" dy="1.2em">principles, like 0 and 1, a wonderful order is</tspan><tspan x="28" dy="1.2em">apparent throughout.</tspan>
+    <tspan x="28" dy="0">All of our exalted technological progress,</tspan><tspan x="28" dy="1.2em">civilization for that matter, is comparable to</tspan><tspan x="28" dy="1.2em">an axe in the hand of a pathological criminal.</tspan>
   </text>
   <text class="meta" x="28" y="126">
-    — Gottfried Wilhelm Leibniz · <tspan opacity="0.8">12/21/2025, 10:09:43 AM</tspan>
+    — Albert Einstein · <tspan opacity="0.8">12/21/2025, 12:02:23 PM</tspan>
   </text>
 </svg>
