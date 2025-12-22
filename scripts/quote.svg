@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="526" height="216" viewBox="0 0 526 216">
+<svg xmlns="http://www.w3.org/2000/svg" width="516" height="164" viewBox="0 0 516 164">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="526" height="216" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="516" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">The Analytical Engine does not occupy common</tspan><tspan x="28" dy="1.2em">ground with mere &#39;calculating machines.&#39; It</tspan><tspan x="28" dy="1.2em">holds a position wholly its own, and the</tspan><tspan x="28" dy="1.2em">considerations it suggests are more interesting</tspan><tspan x="28" dy="1.2em">in their nature.</tspan>
+    <tspan x="28" dy="0">Putting a new feature into a program is</tspan><tspan x="28" dy="1.2em">important, but refactoring so new features can</tspan><tspan x="28" dy="1.2em">be added in the future is equally important.</tspan>
   </text>
-  <text class="meta" x="28" y="178">
-    — Ada Lovelace · <tspan opacity="0.8">12/22/2025, 12:06:29 PM</tspan>
+  <text class="meta" x="28" y="126">
+    — Ward Cunningham · <tspan opacity="0.8">12/22/2025, 1:29:27 PM</tspan>
   </text>
 </svg>
