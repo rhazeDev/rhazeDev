@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="656" height="268" viewBox="0 0 656 268">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="190" viewBox="0 0 536 190">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="656" height="268" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="190" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">When you build a prototype, there is always the</tspan><tspan x="28" dy="1.2em">risk that someone will say &quot;that&#39;s good enough,</tspan><tspan x="28" dy="1.2em">ship it&quot;. One way to minimize the risk of a</tspan><tspan x="28" dy="1.2em">prototype being put into production is to write</tspan><tspan x="28" dy="1.2em">the prototype in using a language or tool that</tspan><tspan x="28" dy="1.2em">you couldn&#39;t possibly use for a production</tspan><tspan x="28" dy="1.2em">version.</tspan>
+    <tspan x="28" dy="0">The idea behind digital computers may be</tspan><tspan x="28" dy="1.2em">explained by saying that these machines are</tspan><tspan x="28" dy="1.2em">intended to carry out any operations which could</tspan><tspan x="28" dy="1.2em">be done by a human computer.</tspan>
   </text>
-  <text class="meta" x="28" y="230">
-    — Joseph Yoder (computer scientist) · <tspan opacity="0.8">12/24/2025, 6:24:57 AM</tspan>
+  <text class="meta" x="28" y="152">
+    — Alan Turing · <tspan opacity="0.8">12/24/2025, 7:24:07 AM</tspan>
   </text>
 </svg>
