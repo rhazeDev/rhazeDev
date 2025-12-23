@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="576" height="138" viewBox="0 0 576 138">
+<svg xmlns="http://www.w3.org/2000/svg" width="666" height="268" viewBox="0 0 666 268">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="576" height="138" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="666" height="268" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">It&#39;s not so important what you work on, so long</tspan><tspan x="28" dy="1.2em">as you&#39;re not wasting your time.</tspan>
+    <tspan x="28" dy="0">When you build a prototype, there is always the</tspan><tspan x="28" dy="1.2em">risk that someone will say &quot;that&#39;s good enough,</tspan><tspan x="28" dy="1.2em">ship it&quot;. One way to minimize the risk of a</tspan><tspan x="28" dy="1.2em">prototype being put into production is to write</tspan><tspan x="28" dy="1.2em">the prototype in using a language or tool that</tspan><tspan x="28" dy="1.2em">you couldn&#39;t possibly use for a production</tspan><tspan x="28" dy="1.2em">version.</tspan>
   </text>
-  <text class="meta" x="28" y="100">
-    — Paul Graham (programmer) · <tspan opacity="0.8">12/23/2025, 10:26:41 PM</tspan>
+  <text class="meta" x="28" y="230">
+    — Joseph Yoder (computer scientist) · <tspan opacity="0.8">12/23/2025, 11:28:25 PM</tspan>
   </text>
 </svg>
