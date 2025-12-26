@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">First learn computer science and all the theory.</tspan><tspan x="28" dy="1.2em">Next develop a programming style. Then forget</tspan><tspan x="28" dy="1.2em">all that and just hack.</tspan>
+    <tspan x="28" dy="0">In JavaScript, there is a beautiful, elegant,</tspan><tspan x="28" dy="1.2em">highly expressive language that is buried under</tspan><tspan x="28" dy="1.2em">a steaming pile of good intentions and blunders.</tspan>
   </text>
   <text class="meta" x="28" y="126">
-    — George Carrette · <tspan opacity="0.8">12/26/2025, 7:24:05 AM</tspan>
+    — Douglas Crockford · <tspan opacity="0.8">12/26/2025, 10:03:18 AM</tspan>
   </text>
 </svg>
