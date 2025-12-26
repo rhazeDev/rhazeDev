@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="516" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Just because people tell you it can&#39;t be done,</tspan><tspan x="28" dy="1.2em">that doesn&#39;t necessarily mean that it can&#39;t be</tspan><tspan x="28" dy="1.2em">done. It just means that they can&#39;t do it.</tspan>
+    <tspan x="28" dy="0">Putting a new feature into a program is</tspan><tspan x="28" dy="1.2em">important, but refactoring so new features can</tspan><tspan x="28" dy="1.2em">be added in the future is equally important.</tspan>
   </text>
   <text class="meta" x="28" y="126">
-    — Anders Hejlsberg · <tspan opacity="0.8">12/26/2025, 3:26:20 PM</tspan>
+    — Ward Cunningham · <tspan opacity="0.8">12/26/2025, 4:34:39 PM</tspan>
   </text>
 </svg>
