@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="506" height="164" viewBox="0 0 506 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="506" height="216" viewBox="0 0 506 216">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="506" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="506" height="216" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Some people, when confronted with a problem,</tspan><tspan x="28" dy="1.2em">think ‘I know, I’ll use regular expressions.’</tspan><tspan x="28" dy="1.2em">Now they have two problems.</tspan>
+    <tspan x="28" dy="0">The first 90 percent of the code accounts for</tspan><tspan x="28" dy="1.2em">the first 90 percent of the development time.</tspan><tspan x="28" dy="1.2em">The remaining 10 percent of the code accounts</tspan><tspan x="28" dy="1.2em">for the other 90 percent of the development</tspan><tspan x="28" dy="1.2em">time.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — Jamie Zawinski · <tspan opacity="0.8">12/27/2025, 2:38:10 PM</tspan>
+  <text class="meta" x="28" y="178">
+    — Tom Cargill · <tspan opacity="0.8">12/27/2025, 3:23:40 PM</tspan>
   </text>
 </svg>
