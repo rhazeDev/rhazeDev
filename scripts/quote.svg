@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="526" height="164" viewBox="0 0 526 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="268" viewBox="0 0 536 268">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="526" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="268" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Testing can be a very effective way to show the</tspan><tspan x="28" dy="1.2em">presence of bugs, but it is hopelessly</tspan><tspan x="28" dy="1.2em">inadequate for showing their absence.</tspan>
+    <tspan x="28" dy="0">The design of the following treatise is to</tspan><tspan x="28" dy="1.2em">investigate the fundamental laws of those</tspan><tspan x="28" dy="1.2em">operations of the mind by which reasoning is</tspan><tspan x="28" dy="1.2em">performed; to give expression to them in the</tspan><tspan x="28" dy="1.2em">symbolical language of a Calculus, and upon this</tspan><tspan x="28" dy="1.2em">foundation to establish the science of Logic and</tspan><tspan x="28" dy="1.2em">construct its method.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — Edsger W. Dijkstra · <tspan opacity="0.8">12/27/2025, 5:26:09 PM</tspan>
+  <text class="meta" x="28" y="230">
+    — George Boole · <tspan opacity="0.8">12/27/2025, 6:25:52 PM</tspan>
   </text>
 </svg>
