@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="536" height="164" viewBox="0 0 536 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="294" viewBox="0 0 536 294">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="294" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">To be successful, you want to surround yourself</tspan><tspan x="28" dy="1.2em">with very talented folks whose skills blend very</tspan><tspan x="28" dy="1.2em">well. That’s the secret of success.</tspan>
+    <tspan x="28" dy="0">In 1971 when I joined the staff of the MIT</tspan><tspan x="28" dy="1.2em">Artificial Intelligence lab, all of us who</tspan><tspan x="28" dy="1.2em">helped develop the operating system software, we</tspan><tspan x="28" dy="1.2em">called ourselves hackers. We were not breaking</tspan><tspan x="28" dy="1.2em">any laws, at least not in doing the hacking we</tspan><tspan x="28" dy="1.2em">were paid to do. We were developing software and</tspan><tspan x="28" dy="1.2em">we were having fun. Hacking refers to the spirit</tspan><tspan x="28" dy="1.2em">of fun in which we were developing software.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — John Warnock · <tspan opacity="0.8">12/29/2025, 1:22:43 AM</tspan>
+  <text class="meta" x="28" y="256">
+    — Richard Stallman · <tspan opacity="0.8">12/29/2025, 2:35:57 AM</tspan>
   </text>
 </svg>
