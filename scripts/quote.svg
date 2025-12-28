@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="526" height="164" viewBox="0 0 526 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="516" height="190" viewBox="0 0 516 190">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="526" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="516" height="190" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">The computing scientist’s main challenge is not</tspan><tspan x="28" dy="1.2em">to get confused by the complexities of his own</tspan><tspan x="28" dy="1.2em">making.</tspan>
+    <tspan x="28" dy="0">Most programming languages contain good parts</tspan><tspan x="28" dy="1.2em">and bad parts. I discovered that I could be</tspan><tspan x="28" dy="1.2em">better programmer by using only the good parts</tspan><tspan x="28" dy="1.2em">and avoiding the bad parts.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — Edsger W. Dijkstra · <tspan opacity="0.8">12/28/2025, 11:24:52 PM</tspan>
+  <text class="meta" x="28" y="152">
+    — Douglas Crockford · <tspan opacity="0.8">12/29/2025, 12:31:24 AM</tspan>
   </text>
 </svg>
