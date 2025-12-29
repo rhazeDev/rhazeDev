@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="526" height="216" viewBox="0 0 526 216">
+<svg xmlns="http://www.w3.org/2000/svg" width="656" height="138" viewBox="0 0 656 138">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="526" height="216" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="656" height="138" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Flaws in computer programs are usually called</tspan><tspan x="28" dy="1.2em">bugs. It makes programmers feel good to imagine</tspan><tspan x="28" dy="1.2em">them as little things that just happen to crawl</tspan><tspan x="28" dy="1.2em">into our work. In reality, of course, we put</tspan><tspan x="28" dy="1.2em">them there ourselves.</tspan>
+    <tspan x="28" dy="0">Sometimes it’s just easier to throw a system</tspan><tspan x="28" dy="1.2em">away, and start over.</tspan>
   </text>
-  <text class="meta" x="28" y="178">
-    — Marijn Haverbeke · <tspan opacity="0.8">12/29/2025, 12:12:53 PM</tspan>
+  <text class="meta" x="28" y="100">
+    — Joseph Yoder (computer scientist) · <tspan opacity="0.8">12/29/2025, 1:34:00 PM</tspan>
   </text>
 </svg>
