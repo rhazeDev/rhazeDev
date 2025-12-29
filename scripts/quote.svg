@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="526" height="164" viewBox="0 0 526 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="526" height="112" viewBox="0 0 526 112">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="526" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="526" height="112" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">There&#39;s only one trick in software, and that is</tspan><tspan x="28" dy="1.2em">using a piece of software that&#39;s already been</tspan><tspan x="28" dy="1.2em">written.</tspan>
+    <tspan x="28" dy="0">First, solve the problem. Then, write the code.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — Bill Gates · <tspan opacity="0.8">12/30/2025, 5:24:05 AM</tspan>
+  <text class="meta" x="28" y="74">
+    — John Johnson · <tspan opacity="0.8">12/30/2025, 6:24:57 AM</tspan>
   </text>
 </svg>
