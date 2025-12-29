@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="536" height="424" viewBox="0 0 536 424">
+<svg xmlns="http://www.w3.org/2000/svg" width="506" height="216" viewBox="0 0 506 216">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="536" height="424" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="506" height="216" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">The acts of the mind, wherein it exerts its</tspan><tspan x="28" dy="1.2em">power over simple ideas, are chiefly these</tspan><tspan x="28" dy="1.2em">three: 1. Combining several simple ideas into</tspan><tspan x="28" dy="1.2em">one compound one, and thus all complex ideas are</tspan><tspan x="28" dy="1.2em">made. 2. The second is bringing two ideas,</tspan><tspan x="28" dy="1.2em">whether simple or complex, together, and setting</tspan><tspan x="28" dy="1.2em">them by one another so as to take a view of them</tspan><tspan x="28" dy="1.2em">at once, without uniting them into one, by which</tspan><tspan x="28" dy="1.2em">it gets all its ideas of relations. 3. The third</tspan><tspan x="28" dy="1.2em">is separating them from all other ideas that</tspan><tspan x="28" dy="1.2em">accompany them in their real existence: this is</tspan><tspan x="28" dy="1.2em">called abstraction, and thus all its general</tspan><tspan x="28" dy="1.2em">ideas are made.</tspan>
+    <tspan x="28" dy="0">Mathematics is important in programming, but</tspan><tspan x="28" dy="1.2em">it’s just one of a lot of things that are</tspan><tspan x="28" dy="1.2em">important. If you overemphasize the math then</tspan><tspan x="28" dy="1.2em">you underemphasize stuff which might be even</tspan><tspan x="28" dy="1.2em">more important, such as literacy.</tspan>
   </text>
-  <text class="meta" x="28" y="386">
-    — John Locke · <tspan opacity="0.8">12/30/2025, 1:23:13 AM</tspan>
+  <text class="meta" x="28" y="178">
+    — Douglas Crockford · <tspan opacity="0.8">12/30/2025, 2:37:24 AM</tspan>
   </text>
 </svg>
