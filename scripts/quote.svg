@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="526" height="138" viewBox="0 0 526 138">
+<svg xmlns="http://www.w3.org/2000/svg" width="526" height="268" viewBox="0 0 526 268">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="526" height="138" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="526" height="268" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">In handling resources, strive to avoid disaster</tspan><tspan x="28" dy="1.2em">rather than to attain an optimum.</tspan>
+    <tspan x="28" dy="0">Conceptual integrity is the most important</tspan><tspan x="28" dy="1.2em">consideration in system design. It is better to</tspan><tspan x="28" dy="1.2em">have a system omit certain anomalous features</tspan><tspan x="28" dy="1.2em">and improvements, but to reflect one set of</tspan><tspan x="28" dy="1.2em">design ideas, than to have one that contains</tspan><tspan x="28" dy="1.2em">many good but independent and uncoordinated</tspan><tspan x="28" dy="1.2em">ideas.</tspan>
   </text>
-  <text class="meta" x="28" y="100">
-    — Butler Lampson · <tspan opacity="0.8">12/31/2025, 12:34:21 AM</tspan>
+  <text class="meta" x="28" y="230">
+    — Fred Brooks · <tspan opacity="0.8">12/31/2025, 1:25:26 AM</tspan>
   </text>
 </svg>
