@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="466" height="138" viewBox="0 0 466 138">
+<svg xmlns="http://www.w3.org/2000/svg" width="506" height="190" viewBox="0 0 506 190">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="466" height="138" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="506" height="190" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Unix is simple. It just takes a genius to</tspan><tspan x="28" dy="1.2em">understand its simplicity.</tspan>
+    <tspan x="28" dy="0">The general tendency is to over-design the</tspan><tspan x="28" dy="1.2em">second system, using all the ideas and frills</tspan><tspan x="28" dy="1.2em">that were cautiously sidetracked on the first</tspan><tspan x="28" dy="1.2em">one.</tspan>
   </text>
-  <text class="meta" x="28" y="100">
-    — Dennis Ritchie · <tspan opacity="0.8">12/31/2025, 2:41:05 PM</tspan>
+  <text class="meta" x="28" y="152">
+    — Fred Brooks · <tspan opacity="0.8">12/31/2025, 3:27:58 PM</tspan>
   </text>
 </svg>
