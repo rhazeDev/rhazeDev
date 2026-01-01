@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="506" height="216" viewBox="0 0 506 216">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="164" viewBox="0 0 536 164">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="506" height="216" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">The first 90 percent of the code accounts for</tspan><tspan x="28" dy="1.2em">the first 90 percent of the development time.</tspan><tspan x="28" dy="1.2em">The remaining 10 percent of the code accounts</tspan><tspan x="28" dy="1.2em">for the other 90 percent of the development</tspan><tspan x="28" dy="1.2em">time.</tspan>
+    <tspan x="28" dy="0">Computer programs are the most intricate,</tspan><tspan x="28" dy="1.2em">delicately balanced and finely interwoven of all</tspan><tspan x="28" dy="1.2em">the products of human industry to date.</tspan>
   </text>
-  <text class="meta" x="28" y="178">
-    — Tom Cargill · <tspan opacity="0.8">1/2/2026, 12:33:18 AM</tspan>
+  <text class="meta" x="28" y="126">
+    — James Gleick · <tspan opacity="0.8">1/2/2026, 1:24:17 AM</tspan>
   </text>
 </svg>
