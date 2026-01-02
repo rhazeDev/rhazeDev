@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="646" height="216" viewBox="0 0 646 216">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="164" viewBox="0 0 536 164">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="646" height="216" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">While much attention has been focused on</tspan><tspan x="28" dy="1.2em">high-level software architectural patterns, what</tspan><tspan x="28" dy="1.2em">is, in effect, the de-facto standard software</tspan><tspan x="28" dy="1.2em">architecture is seldom discussed: the Big Ball</tspan><tspan x="28" dy="1.2em">of Mud.</tspan>
+    <tspan x="28" dy="0">The only way for errors to occur in a program is</tspan><tspan x="28" dy="1.2em">by being put there by the author. No other</tspan><tspan x="28" dy="1.2em">mechanisms are known.</tspan>
   </text>
-  <text class="meta" x="28" y="178">
-    — Joseph Yoder (computer scientist) · <tspan opacity="0.8">1/2/2026, 10:06:56 AM</tspan>
+  <text class="meta" x="28" y="126">
+    — Harlan Mills · <tspan opacity="0.8">1/2/2026, 12:05:21 PM</tspan>
   </text>
 </svg>
