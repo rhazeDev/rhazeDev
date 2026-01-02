@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="536" height="164" viewBox="0 0 536 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="242" viewBox="0 0 536 242">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="242" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">The only way for errors to occur in a program is</tspan><tspan x="28" dy="1.2em">by being put there by the author. No other</tspan><tspan x="28" dy="1.2em">mechanisms are known.</tspan>
+    <tspan x="28" dy="0">The amateur software engineer is always in</tspan><tspan x="28" dy="1.2em">search of magic, some sensational method or tool</tspan><tspan x="28" dy="1.2em">whose application promises to render software</tspan><tspan x="28" dy="1.2em">development trivial. It is the mark of the</tspan><tspan x="28" dy="1.2em">professional software engineer to know that no</tspan><tspan x="28" dy="1.2em">such panacea exist.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — Harlan Mills · <tspan opacity="0.8">1/2/2026, 12:05:21 PM</tspan>
+  <text class="meta" x="28" y="204">
+    — Grady Booch · <tspan opacity="0.8">1/2/2026, 1:31:12 PM</tspan>
   </text>
 </svg>
