@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="496" height="164" viewBox="0 0 496 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="516" height="216" viewBox="0 0 516 216">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="496" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="516" height="216" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">I think it is inevitable that people program</tspan><tspan x="28" dy="1.2em">poorly. Training will not substantially help</tspan><tspan x="28" dy="1.2em">matters. We have to learn to live with it.</tspan>
+    <tspan x="28" dy="0">When you find you have to add a feature to a</tspan><tspan x="28" dy="1.2em">program, and the program&#39;s code is not</tspan><tspan x="28" dy="1.2em">structured in a convenient way to add the</tspan><tspan x="28" dy="1.2em">feature, first refactor the program to make it</tspan><tspan x="28" dy="1.2em">easy to add the feature, then add the feature.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — Alan Perlis · <tspan opacity="0.8">1/3/2026, 1:27:07 PM</tspan>
+  <text class="meta" x="28" y="178">
+    — Kent Beck · <tspan opacity="0.8">1/3/2026, 2:38:18 PM</tspan>
   </text>
 </svg>
