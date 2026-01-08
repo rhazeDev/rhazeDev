@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="516" height="242" viewBox="0 0 516 242">
+<svg xmlns="http://www.w3.org/2000/svg" width="636" height="216" viewBox="0 0 636 216">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="516" height="242" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="636" height="216" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">On two occasions I have been asked [by members</tspan><tspan x="28" dy="1.2em">of Parliament]: &quot;Pray, Mr. Babbage, if you put</tspan><tspan x="28" dy="1.2em">into the machine wrong figures, will the right</tspan><tspan x="28" dy="1.2em">answers come out?&quot; I am not able rightly to</tspan><tspan x="28" dy="1.2em">apprehend the kind of confusion of ideas that</tspan><tspan x="28" dy="1.2em">could provoke such a question.</tspan>
+    <tspan x="28" dy="0">While much attention has been focused on</tspan><tspan x="28" dy="1.2em">high-level software architectural patterns, what</tspan><tspan x="28" dy="1.2em">is, in effect, the de-facto standard software</tspan><tspan x="28" dy="1.2em">architecture is seldom discussed: the Big Ball</tspan><tspan x="28" dy="1.2em">of Mud.</tspan>
   </text>
-  <text class="meta" x="28" y="204">
-    — Charles Babbage · <tspan opacity="0.8">1/8/2026, 4:37:57 PM</tspan>
+  <text class="meta" x="28" y="178">
+    — Joseph Yoder (computer scientist) · <tspan opacity="0.8">1/8/2026, 5:34:02 PM</tspan>
   </text>
 </svg>
