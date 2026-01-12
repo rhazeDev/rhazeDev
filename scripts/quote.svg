@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="526" height="164" viewBox="0 0 526 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="190" viewBox="0 0 536 190">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="526" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="190" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">The problem is that coding isn’t fun if all you</tspan><tspan x="28" dy="1.2em">can do is call things out of a library, if you</tspan><tspan x="28" dy="1.2em">can’t write the library yourself.</tspan>
+    <tspan x="28" dy="0">I don&#39;t believe in the sort of eureka moment</tspan><tspan x="28" dy="1.2em">idea. I think it&#39;s a myth. I&#39;m very suspicious</tspan><tspan x="28" dy="1.2em">that actually Archimedes had been thinking about</tspan><tspan x="28" dy="1.2em">that problem for a long time.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — Donald Knuth · <tspan opacity="0.8">1/12/2026, 7:26:14 PM</tspan>
+  <text class="meta" x="28" y="152">
+    — Tim Berners-Lee · <tspan opacity="0.8">1/12/2026, 8:59:06 PM</tspan>
   </text>
 </svg>
