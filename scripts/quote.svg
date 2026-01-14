@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="476" height="112" viewBox="0 0 476 112">
+<svg xmlns="http://www.w3.org/2000/svg" width="646" height="216" viewBox="0 0 646 216">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="476" height="112" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="646" height="216" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">To iterate is human, to recurse divine.</tspan>
+    <tspan x="28" dy="0">While much attention has been focused on</tspan><tspan x="28" dy="1.2em">high-level software architectural patterns, what</tspan><tspan x="28" dy="1.2em">is, in effect, the de-facto standard software</tspan><tspan x="28" dy="1.2em">architecture is seldom discussed: the Big Ball</tspan><tspan x="28" dy="1.2em">of Mud.</tspan>
   </text>
-  <text class="meta" x="28" y="74">
-    — L. Peter Deutsch · <tspan opacity="0.8">1/14/2026, 8:58:40 PM</tspan>
+  <text class="meta" x="28" y="178">
+    — Joseph Yoder (computer scientist) · <tspan opacity="0.8">1/14/2026, 9:47:27 PM</tspan>
   </text>
 </svg>
