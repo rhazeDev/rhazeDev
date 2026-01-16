@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="536" height="216" viewBox="0 0 536 216">
+<svg xmlns="http://www.w3.org/2000/svg" width="526" height="164" viewBox="0 0 526 164">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="536" height="216" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="526" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">One of the greatest joys in computer programming</tspan><tspan x="28" dy="1.2em">is discovering a new, faster, more efficient</tspan><tspan x="28" dy="1.2em">algorithm for doing something — particularly if</tspan><tspan x="28" dy="1.2em">a lot of well-respected people have come up with</tspan><tspan x="28" dy="1.2em">worse solutions.</tspan>
+    <tspan x="28" dy="0">Testing can be a very effective way to show the</tspan><tspan x="28" dy="1.2em">presence of bugs, but it is hopelessly</tspan><tspan x="28" dy="1.2em">inadequate for showing their absence.</tspan>
   </text>
-  <text class="meta" x="28" y="178">
-    — Danny Hillis · <tspan opacity="0.8">1/16/2026, 5:32:37 PM</tspan>
+  <text class="meta" x="28" y="126">
+    — Edsger W. Dijkstra · <tspan opacity="0.8">1/16/2026, 6:30:32 PM</tspan>
   </text>
 </svg>
