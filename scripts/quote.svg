@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="516" height="164" viewBox="0 0 516 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="216" viewBox="0 0 536 216">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="516" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="216" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">JavaScript is the only language that I&#39;m aware</tspan><tspan x="28" dy="1.2em">of that people feel they don&#39;t need to learn</tspan><tspan x="28" dy="1.2em">before they start using it.</tspan>
+    <tspan x="28" dy="0">The cost of adding a feature isn’t just the time</tspan><tspan x="28" dy="1.2em">it takes to code it. The cost also includes the</tspan><tspan x="28" dy="1.2em">addition of an obstacle to future expansion. The</tspan><tspan x="28" dy="1.2em">trick is to pick the features that don’t fight</tspan><tspan x="28" dy="1.2em">each other.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — Douglas Crockford · <tspan opacity="0.8">1/19/2026, 12:31:03 AM</tspan>
+  <text class="meta" x="28" y="178">
+    — John Carmack · <tspan opacity="0.8">1/19/2026, 1:22:48 AM</tspan>
   </text>
 </svg>
