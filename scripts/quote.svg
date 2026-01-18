@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="526" height="164" viewBox="0 0 526 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="294" viewBox="0 0 536 294">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="526" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="294" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">A new idea comes suddenly and in a rather</tspan><tspan x="28" dy="1.2em">intuitive way. But intuition is nothing but the</tspan><tspan x="28" dy="1.2em">outcome of earlier intellectual experience.</tspan>
+    <tspan x="28" dy="0">Shipping first time code is like going into</tspan><tspan x="28" dy="1.2em">debt. A little debt speeds development so long</tspan><tspan x="28" dy="1.2em">as it is paid back promptly with a rewrite. The</tspan><tspan x="28" dy="1.2em">danger occurs when the debt is not repaid. Every</tspan><tspan x="28" dy="1.2em">minute spent on not-quite-right code counts as</tspan><tspan x="28" dy="1.2em">interest on that debt. Entire engineering</tspan><tspan x="28" dy="1.2em">organizations can be brought to a stand-still</tspan><tspan x="28" dy="1.2em">under the technical debt load.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — Albert Einstein · <tspan opacity="0.8">1/18/2026, 8:50:59 PM</tspan>
+  <text class="meta" x="28" y="256">
+    — Ward Cunningham · <tspan opacity="0.8">1/18/2026, 9:32:42 PM</tspan>
   </text>
 </svg>
