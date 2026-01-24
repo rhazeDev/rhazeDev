@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="526" height="242" viewBox="0 0 526 242">
+<svg xmlns="http://www.w3.org/2000/svg" width="486" height="138" viewBox="0 0 486 138">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="526" height="242" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="486" height="138" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Having a system architect is the most important</tspan><tspan x="28" dy="1.2em">single step toward conceptual integrity. After</tspan><tspan x="28" dy="1.2em">teaching a software engineering laboratory more</tspan><tspan x="28" dy="1.2em">than 20 times, I came to insist that student</tspan><tspan x="28" dy="1.2em">teams as small as four people choose a manager</tspan><tspan x="28" dy="1.2em">and a separate architect.</tspan>
+    <tspan x="28" dy="0">I&#39;m not a great programmer; I&#39;m just a good</tspan><tspan x="28" dy="1.2em">programmer with great habits.</tspan>
   </text>
-  <text class="meta" x="28" y="204">
-    — Fred Brooks · <tspan opacity="0.8">1/24/2026, 12:00:22 PM</tspan>
+  <text class="meta" x="28" y="100">
+    — Kent Beck · <tspan opacity="0.8">1/24/2026, 1:26:48 PM</tspan>
   </text>
 </svg>
