@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="536" height="164" viewBox="0 0 536 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="516" height="242" viewBox="0 0 516 242">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="516" height="242" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Right now you are a prisoner of each application</tspan><tspan x="28" dy="1.2em">you use. You have only the options that were</tspan><tspan x="28" dy="1.2em">given you by the developer of that application.</tspan>
+    <tspan x="28" dy="0">On two occasions I have been asked [by members</tspan><tspan x="28" dy="1.2em">of Parliament]: &quot;Pray, Mr. Babbage, if you put</tspan><tspan x="28" dy="1.2em">into the machine wrong figures, will the right</tspan><tspan x="28" dy="1.2em">answers come out?&quot; I am not able rightly to</tspan><tspan x="28" dy="1.2em">apprehend the kind of confusion of ideas that</tspan><tspan x="28" dy="1.2em">could provoke such a question.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — Ted Nelson · <tspan opacity="0.8">1/27/2026, 3:28:06 AM</tspan>
+  <text class="meta" x="28" y="204">
+    — Charles Babbage · <tspan opacity="0.8">1/27/2026, 4:33:51 AM</tspan>
   </text>
 </svg>
