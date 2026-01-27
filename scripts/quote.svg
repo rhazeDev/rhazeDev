@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="496" height="164" viewBox="0 0 496 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="486" height="138" viewBox="0 0 486 138">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="496" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="486" height="138" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Over half of the time you spend working on a</tspan><tspan x="28" dy="1.2em">project is spent thinking, and no tool, no</tspan><tspan x="28" dy="1.2em">matter how advanced, can think for you.</tspan>
+    <tspan x="28" dy="0">I think you should always bear in mind that</tspan><tspan x="28" dy="1.2em">entropy is not on your side.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — Richard P. Gabriel · <tspan opacity="0.8">1/28/2026, 5:23:56 AM</tspan>
+  <text class="meta" x="28" y="100">
+    — Elon Musk · <tspan opacity="0.8">1/28/2026, 6:27:39 AM</tspan>
   </text>
 </svg>
