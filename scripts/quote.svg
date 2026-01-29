@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="536" height="216" viewBox="0 0 536 216">
+<svg xmlns="http://www.w3.org/2000/svg" width="506" height="164" viewBox="0 0 506 164">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="536" height="216" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="506" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Since 1954, the raw speed of computers, as</tspan><tspan x="28" dy="1.2em">measured by the time it takes to do an addition,</tspan><tspan x="28" dy="1.2em">increased by a factor of 10,000. That means an</tspan><tspan x="28" dy="1.2em">algorithm that once took 10 minutes to perform</tspan><tspan x="28" dy="1.2em">can now be done 15 times a second.</tspan>
+    <tspan x="28" dy="0">I invented the Web just because I needed it,</tspan><tspan x="28" dy="1.2em">really, because it was so frustrating that it</tspan><tspan x="28" dy="1.2em">didn&#39;t exit.</tspan>
   </text>
-  <text class="meta" x="28" y="178">
-    — Maurice Wilkes · <tspan opacity="0.8">1/29/2026, 7:35:35 PM</tspan>
+  <text class="meta" x="28" y="126">
+    — Tim Berners-Lee · <tspan opacity="0.8">1/29/2026, 9:09:44 PM</tspan>
   </text>
 </svg>
