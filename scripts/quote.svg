@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="536" height="164" viewBox="0 0 536 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="516" height="294" viewBox="0 0 516 294">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="516" height="294" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">We build our computer systems the way we build</tspan><tspan x="28" dy="1.2em">our cities: over time, without a plan, on top of</tspan><tspan x="28" dy="1.2em">ruins.</tspan>
+    <tspan x="28" dy="0">The notions of correctness in mathematics and</tspan><tspan x="28" dy="1.2em">programs are different. A mathematical model</tspan><tspan x="28" dy="1.2em">must be consistent; it need not match reality</tspan><tspan x="28" dy="1.2em">(be correct), and it need not be complete (in</tspan><tspan x="28" dy="1.2em">the formal sense). A program model must be</tspan><tspan x="28" dy="1.2em">consistent; it must match reality; and it must</tspan><tspan x="28" dy="1.2em">be complete (in the sense that it reacts</tspan><tspan x="28" dy="1.2em">gracefully to all inputs).</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — Ellen Ullman · <tspan opacity="0.8">2/1/2026, 5:27:45 AM</tspan>
+  <text class="meta" x="28" y="256">
+    — Daniel T. Barry · <tspan opacity="0.8">2/1/2026, 6:28:45 AM</tspan>
   </text>
 </svg>
