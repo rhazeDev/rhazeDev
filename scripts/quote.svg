@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="536" height="242" viewBox="0 0 536 242">
+<svg xmlns="http://www.w3.org/2000/svg" width="636" height="268" viewBox="0 0 636 268">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="536" height="242" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="636" height="268" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">First, we must observe that the anomaly is not</tspan><tspan x="28" dy="1.2em">that software progress is so slow but that</tspan><tspan x="28" dy="1.2em">computer hardware progress is so fast. No other</tspan><tspan x="28" dy="1.2em">technology since civilization began has seen six</tspan><tspan x="28" dy="1.2em">orders of magnitude price-performance gain in 30</tspan><tspan x="28" dy="1.2em">years.</tspan>
+    <tspan x="28" dy="0">When you build a prototype, there is always the</tspan><tspan x="28" dy="1.2em">risk that someone will say &quot;that&#39;s good enough,</tspan><tspan x="28" dy="1.2em">ship it&quot;. One way to minimize the risk of a</tspan><tspan x="28" dy="1.2em">prototype being put into production is to write</tspan><tspan x="28" dy="1.2em">the prototype in using a language or tool that</tspan><tspan x="28" dy="1.2em">you couldn&#39;t possibly use for a production</tspan><tspan x="28" dy="1.2em">version.</tspan>
   </text>
-  <text class="meta" x="28" y="204">
-    — Fred Brooks · <tspan opacity="0.8">2/5/2026, 1:53:17 AM</tspan>
+  <text class="meta" x="28" y="230">
+    — Joseph Yoder (computer scientist) · <tspan opacity="0.8">2/5/2026, 2:58:25 AM</tspan>
   </text>
 </svg>
