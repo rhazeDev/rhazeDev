@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="526" height="294" viewBox="0 0 526 294">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="190" viewBox="0 0 536 190">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="526" height="294" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="190" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Make a guess, double the number, and then move</tspan><tspan x="28" dy="1.2em">to the next larger unit of time. This rule</tspan><tspan x="28" dy="1.2em">scales tasks in a very interesting way: a</tspan><tspan x="28" dy="1.2em">one-minute task explodes by a factor of 120 to</tspan><tspan x="28" dy="1.2em">take two hours. A one-hour job explodes by</tspan><tspan x="28" dy="1.2em">&quot;only&quot; a factor 48 to take two days, while a</tspan><tspan x="28" dy="1.2em">one-day job grows by a factor of 14 to take two</tspan><tspan x="28" dy="1.2em">weeks.</tspan>
+    <tspan x="28" dy="0">There are few things more frustrating or time</tspan><tspan x="28" dy="1.2em">wasting than debugging. Wouldn&#39;t it be a hell of</tspan><tspan x="28" dy="1.2em">a lot quicker if we just didn&#39;t create the bugs</tspan><tspan x="28" dy="1.2em">in the first place?</tspan>
   </text>
-  <text class="meta" x="28" y="256">
-    — Poul-Henning Kamp · <tspan opacity="0.8">2/5/2026, 7:39:07 PM</tspan>
+  <text class="meta" x="28" y="152">
+    — Martin Fowler · <tspan opacity="0.8">2/5/2026, 9:14:53 PM</tspan>
   </text>
 </svg>
