@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="536" height="164" viewBox="0 0 536 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="526" height="138" viewBox="0 0 526 138">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="526" height="138" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">By June 1949 people had begun to realize that it</tspan><tspan x="28" dy="1.2em">was not so easy to get programs right as at one</tspan><tspan x="28" dy="1.2em">time appeared.</tspan>
+    <tspan x="28" dy="0">There are only two kinds of languages: the ones</tspan><tspan x="28" dy="1.2em">people complain about and the ones nobody uses.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — Maurice Wilkes · <tspan opacity="0.8">2/7/2026, 7:27:24 PM</tspan>
+  <text class="meta" x="28" y="100">
+    — Bjarne Stroustrup · <tspan opacity="0.8">2/7/2026, 9:01:34 PM</tspan>
   </text>
 </svg>
