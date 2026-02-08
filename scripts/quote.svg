@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="646" height="216" viewBox="0 0 646 216">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="164" viewBox="0 0 536 164">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="646" height="216" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Program designers have a tendency to think of</tspan><tspan x="28" dy="1.2em">the users as idiots who need to be controlled.</tspan><tspan x="28" dy="1.2em">They should rather think of their program as a</tspan><tspan x="28" dy="1.2em">servant, whose master, the user, should be able</tspan><tspan x="28" dy="1.2em">to control it.</tspan>
+    <tspan x="28" dy="0">There are two major products that come out of</tspan><tspan x="28" dy="1.2em">Berkeley: LSD and UNIX. We don&#39;t believe this to</tspan><tspan x="28" dy="1.2em">be a coincidence.</tspan>
   </text>
-  <text class="meta" x="28" y="178">
-    — John McCarthy (computer scientist) · <tspan opacity="0.8">2/8/2026, 7:28:07 PM</tspan>
+  <text class="meta" x="28" y="126">
+    — Jeremy S. Anderson · <tspan opacity="0.8">2/8/2026, 9:02:08 PM</tspan>
   </text>
 </svg>
