@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="496" height="164" viewBox="0 0 496 164">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="242" viewBox="0 0 536 242">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="496" height="164" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="242" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">I characterize functional programming as a</tspan><tspan x="28" dy="1.2em">radical and elegant attack on the whole</tspan><tspan x="28" dy="1.2em">enterprise of writing programs.</tspan>
+    <tspan x="28" dy="0">Program building is an entropy-decreasing</tspan><tspan x="28" dy="1.2em">process, hence inherently metastable. Program</tspan><tspan x="28" dy="1.2em">maintenance is an entropy-increasing process,</tspan><tspan x="28" dy="1.2em">and even its most skillful execution only delays</tspan><tspan x="28" dy="1.2em">the subsidence of the system into unfixable</tspan><tspan x="28" dy="1.2em">obsolescence.</tspan>
   </text>
-  <text class="meta" x="28" y="126">
-    — Simon Peyton Jones · <tspan opacity="0.8">2/10/2026, 7:42:58 AM</tspan>
+  <text class="meta" x="28" y="204">
+    — Fred Brooks · <tspan opacity="0.8">2/10/2026, 10:52:33 AM</tspan>
   </text>
 </svg>
