@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="506" height="138" viewBox="0 0 506 138">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="190" viewBox="0 0 536 190">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="506" height="138" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="190" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">When I invented the web, I didn&#39;t have to ask</tspan><tspan x="28" dy="1.2em">anyone&#39;s permission.</tspan>
+    <tspan x="28" dy="0">Are you quite sure that all those bells and</tspan><tspan x="28" dy="1.2em">whistles, all those wonderful facilities of your</tspan><tspan x="28" dy="1.2em">so called powerful programming languages, belong</tspan><tspan x="28" dy="1.2em">to the solution set rather than the problem set?</tspan>
   </text>
-  <text class="meta" x="28" y="100">
-    — Tim Berners-Lee · <tspan opacity="0.8">2/11/2026, 3:13:10 AM</tspan>
+  <text class="meta" x="28" y="152">
+    — Edsger W. Dijkstra · <tspan opacity="0.8">2/11/2026, 4:52:02 AM</tspan>
   </text>
 </svg>
