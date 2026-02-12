@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="526" height="190" viewBox="0 0 526 190">
+<svg xmlns="http://www.w3.org/2000/svg" width="506" height="164" viewBox="0 0 506 164">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="526" height="190" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="506" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Size almost always involves complexity, and</tspan><tspan x="28" dy="1.2em">complexity confuses programmers. Confused</tspan><tspan x="28" dy="1.2em">programmers, in turn, introduce mistakes (bugs)</tspan><tspan x="28" dy="1.2em">into programs.</tspan>
+    <tspan x="28" dy="0">Some people, when confronted with a problem,</tspan><tspan x="28" dy="1.2em">think ‘I know, I’ll use regular expressions.’</tspan><tspan x="28" dy="1.2em">Now they have two problems.</tspan>
   </text>
-  <text class="meta" x="28" y="152">
-    — Marijn Haverbeke · <tspan opacity="0.8">2/12/2026, 7:38:19 AM</tspan>
+  <text class="meta" x="28" y="126">
+    — Jamie Zawinski · <tspan opacity="0.8">2/12/2026, 10:45:53 AM</tspan>
   </text>
 </svg>
