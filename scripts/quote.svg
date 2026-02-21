@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="526" height="190" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Because we are uncertain about our scheduling</tspan><tspan x="28" dy="1.2em">estimates, we often lack the courage to defend</tspan><tspan x="28" dy="1.2em">them stubbornly against management and customer</tspan><tspan x="28" dy="1.2em">pressure.</tspan>
+    <tspan x="28" dy="0">Debugging is twice as hard as writing the code</tspan><tspan x="28" dy="1.2em">in the first place. Therefore, if you write the</tspan><tspan x="28" dy="1.2em">code as cleverly as possible, you are, by</tspan><tspan x="28" dy="1.2em">definition, not smart enough to debug it.</tspan>
   </text>
   <text class="meta" x="28" y="152">
-    — Fred Brooks · <tspan opacity="0.8">2/21/2026, 10:29:53 AM</tspan>
+    — Brian Kernighan · <tspan opacity="0.8">2/21/2026, 12:40:42 PM</tspan>
   </text>
 </svg>
