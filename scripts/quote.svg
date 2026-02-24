@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="526" height="138" viewBox="0 0 526 138">
+<svg xmlns="http://www.w3.org/2000/svg" width="516" height="164" viewBox="0 0 516 164">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="526" height="138" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="516" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Walking on water and developing software from a</tspan><tspan x="28" dy="1.2em">specification are easy if both are frozen.</tspan>
+    <tspan x="28" dy="0">I have yet to see any problem, however</tspan><tspan x="28" dy="1.2em">complicated, which when looked at in the right</tspan><tspan x="28" dy="1.2em">way, did not become more complicated.</tspan>
   </text>
-  <text class="meta" x="28" y="100">
-    — Edward V. Berard · <tspan opacity="0.8">2/24/2026, 7:43:30 PM</tspan>
+  <text class="meta" x="28" y="126">
+    — Poul Anderson · <tspan opacity="0.8">2/24/2026, 9:19:35 PM</tspan>
   </text>
 </svg>
