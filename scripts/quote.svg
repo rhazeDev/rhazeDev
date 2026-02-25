@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="526" height="242" viewBox="0 0 526 242">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="268" viewBox="0 0 536 268">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="526" height="242" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="268" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">There is not only a close analogy between the</tspan><tspan x="28" dy="1.2em">operations of the mind in general reasoning and</tspan><tspan x="28" dy="1.2em">its operations in the particular science of</tspan><tspan x="28" dy="1.2em">Algebra, but there is to a considerable extent</tspan><tspan x="28" dy="1.2em">an exact agreement in the laws by which the two</tspan><tspan x="28" dy="1.2em">classes of operations are conducted.</tspan>
+    <tspan x="28" dy="0">Programming, it turns out, is hard. The</tspan><tspan x="28" dy="1.2em">fundamental rules are typically simple and</tspan><tspan x="28" dy="1.2em">clear. But programs built on top of these rules</tspan><tspan x="28" dy="1.2em">tend to become complex enough to introduce their</tspan><tspan x="28" dy="1.2em">own rules and complexity. You’re building your</tspan><tspan x="28" dy="1.2em">own maze, in a way, and you might just get lost</tspan><tspan x="28" dy="1.2em">in it.</tspan>
   </text>
-  <text class="meta" x="28" y="204">
-    — George Boole · <tspan opacity="0.8">2/25/2026, 6:03:35 PM</tspan>
+  <text class="meta" x="28" y="230">
+    — Marijn Haverbeke · <tspan opacity="0.8">2/25/2026, 7:42:33 PM</tspan>
   </text>
 </svg>
