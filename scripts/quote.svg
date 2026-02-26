@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="526" height="138" viewBox="0 0 526 138">
+<svg xmlns="http://www.w3.org/2000/svg" width="526" height="216" viewBox="0 0 526 216">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="526" height="138" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="526" height="216" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Anybody who comes to you and says he has a</tspan><tspan x="28" dy="1.2em">perfect language is either naïve or a salesman.</tspan>
+    <tspan x="28" dy="0">A complex system that works is invariably found</tspan><tspan x="28" dy="1.2em">to have evolved from a simple system that</tspan><tspan x="28" dy="1.2em">worked. The inverse proposition also appears to</tspan><tspan x="28" dy="1.2em">be true: A complex system designed from scratch</tspan><tspan x="28" dy="1.2em">never works and cannot be made to work.</tspan>
   </text>
-  <text class="meta" x="28" y="100">
-    — Bjarne Stroustrup · <tspan opacity="0.8">2/26/2026, 6:58:07 PM</tspan>
+  <text class="meta" x="28" y="178">
+    — John Gall (author) · <tspan opacity="0.8">2/26/2026, 7:48:25 PM</tspan>
   </text>
 </svg>
