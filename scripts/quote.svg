@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="516" height="216" viewBox="0 0 516 216">
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="164" viewBox="0 0 536 164">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="516" height="216" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Most software today is very much like an</tspan><tspan x="28" dy="1.2em">Egyptian pyramid with millions of bricks piled</tspan><tspan x="28" dy="1.2em">on top of each other, with no structural</tspan><tspan x="28" dy="1.2em">integrity, but just done by brute force and</tspan><tspan x="28" dy="1.2em">thousands of slaves.</tspan>
+    <tspan x="28" dy="0">Simplicity and elegance are unpopular because</tspan><tspan x="28" dy="1.2em">they require hard work and discipline to achieve</tspan><tspan x="28" dy="1.2em">and education to be appreciated.</tspan>
   </text>
-  <text class="meta" x="28" y="178">
-    — Alan Kay · <tspan opacity="0.8">2/27/2026, 3:04:56 PM</tspan>
+  <text class="meta" x="28" y="126">
+    — Edsger W. Dijkstra · <tspan opacity="0.8">2/27/2026, 4:50:24 PM</tspan>
   </text>
 </svg>
