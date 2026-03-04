@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="536" height="138" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">I think of myself as a writer. Sometimes I write</tspan><tspan x="28" dy="1.2em">in English and sometimes I write in JavaScript.</tspan>
+    <tspan x="28" dy="0">Debugging is like being the detective in a crime</tspan><tspan x="28" dy="1.2em">movie where you are also the murderer.</tspan>
   </text>
   <text class="meta" x="28" y="100">
-    — Douglas Crockford · <tspan opacity="0.8">3/4/2026, 4:48:30 PM</tspan>
+    — Filipe Fortes · <tspan opacity="0.8">3/4/2026, 5:49:45 PM</tspan>
   </text>
 </svg>
