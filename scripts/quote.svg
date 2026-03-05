@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="536" height="138" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">So much complexity in software comes from trying</tspan><tspan x="28" dy="1.2em">to make one thing do two things.</tspan>
+    <tspan x="28" dy="0">I&#39;m doing a free operating system (just a hobby,</tspan><tspan x="28" dy="1.2em">won&#39;t be big and professional like GNU).</tspan>
   </text>
   <text class="meta" x="28" y="100">
-    — Ryan Singer · <tspan opacity="0.8">3/5/2026, 9:13:04 PM</tspan>
+    — Linus Torvalds · <tspan opacity="0.8">3/5/2026, 10:52:22 PM</tspan>
   </text>
 </svg>
