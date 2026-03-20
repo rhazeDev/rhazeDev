@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">A man provided with paper, pencil, and rubber,</tspan><tspan x="28" dy="1.2em">and subject to strict discipline, is in effect a</tspan><tspan x="28" dy="1.2em">universal machine.</tspan>
+    <tspan x="28" dy="0">When you feel the need to write a comment, first</tspan><tspan x="28" dy="1.2em">try to refactor the code so that any comment</tspan><tspan x="28" dy="1.2em">becomes superfluous.</tspan>
   </text>
   <text class="meta" x="28" y="126">
-    — Alan Turing · <tspan opacity="0.8">3/21/2026, 3:40:39 AM</tspan>
+    — Kent Beck · <tspan opacity="0.8">3/21/2026, 4:39:12 AM</tspan>
   </text>
 </svg>
