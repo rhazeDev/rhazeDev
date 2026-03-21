@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="526" height="190" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">I&#39;m convinced that about half of what separates</tspan><tspan x="28" dy="1.2em">the successful entrepreneurs from the</tspan><tspan x="28" dy="1.2em">non-successful ones is pure perseverance. It is</tspan><tspan x="28" dy="1.2em">so hard.</tspan>
+    <tspan x="28" dy="0">I start with drawing the data structures, and I</tspan><tspan x="28" dy="1.2em">spend a lot of time thinking about them. I also</tspan><tspan x="28" dy="1.2em">think about what the program has to go through</tspan><tspan x="28" dy="1.2em">before I start writing code.</tspan>
   </text>
   <text class="meta" x="28" y="152">
-    — Steve Jobs · <tspan opacity="0.8">3/21/2026, 12:41:15 PM</tspan>
+    — Gary Kildall · <tspan opacity="0.8">3/21/2026, 1:46:18 PM</tspan>
   </text>
 </svg>
