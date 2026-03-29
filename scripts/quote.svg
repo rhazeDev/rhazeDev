@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">A distributed system is one in which the failure</tspan><tspan x="28" dy="1.2em">of a computer you didn’t even know existed can</tspan><tspan x="28" dy="1.2em">render your own computer unusable.</tspan>
+    <tspan x="28" dy="0">One must assume that there will be lots of bugs,</tspan><tspan x="28" dy="1.2em">and plan an orderly procedure for snaking them</tspan><tspan x="28" dy="1.2em">out.</tspan>
   </text>
   <text class="meta" x="28" y="126">
-    — Leslie Lamport · <tspan opacity="0.8">3/29/2026, 5:44:25 PM</tspan>
+    — Fred Brooks · <tspan opacity="0.8">3/29/2026, 6:40:07 PM</tspan>
   </text>
 </svg>
