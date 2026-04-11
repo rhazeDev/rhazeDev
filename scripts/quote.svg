@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="516" height="138" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Software gets slower faster than hardware gets</tspan><tspan x="28" dy="1.2em">faster.</tspan>
+    <tspan x="28" dy="0">Cleaning code does NOT take time. NOT cleaning</tspan><tspan x="28" dy="1.2em">code does take time.</tspan>
   </text>
   <text class="meta" x="28" y="100">
-    — Niklaus Wirth · <tspan opacity="0.8">4/12/2026, 2:54:12 AM</tspan>
+    — Robert C. Martin · <tspan opacity="0.8">4/12/2026, 3:38:17 AM</tspan>
   </text>
 </svg>
