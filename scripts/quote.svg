@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="536" height="242" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Don&#39;t blame me for the fact that competent</tspan><tspan x="28" dy="1.2em">programming will be too difficult for &quot;the</tspan><tspan x="28" dy="1.2em">average programmer&quot; — you must not fall into the</tspan><tspan x="28" dy="1.2em">trap of rejecting a surgical technique because</tspan><tspan x="28" dy="1.2em">it is beyond the capabilities of the barber in</tspan><tspan x="28" dy="1.2em">his shop around the corner.</tspan>
+    <tspan x="28" dy="0">Program building is an entropy-decreasing</tspan><tspan x="28" dy="1.2em">process, hence inherently metastable. Program</tspan><tspan x="28" dy="1.2em">maintenance is an entropy-increasing process,</tspan><tspan x="28" dy="1.2em">and even its most skillful execution only delays</tspan><tspan x="28" dy="1.2em">the subsidence of the system into unfixable</tspan><tspan x="28" dy="1.2em">obsolescence.</tspan>
   </text>
   <text class="meta" x="28" y="204">
-    — Edsger W. Dijkstra · <tspan opacity="0.8">4/14/2026, 5:00:44 AM</tspan>
+    — Fred Brooks · <tspan opacity="0.8">4/14/2026, 6:50:52 AM</tspan>
   </text>
 </svg>
