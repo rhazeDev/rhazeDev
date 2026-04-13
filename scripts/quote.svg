@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="536" height="216" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">One of the things I’ve been pushing is code</tspan><tspan x="28" dy="1.2em">reading. I think that is the most useful thing</tspan><tspan x="28" dy="1.2em">that a community of programmers can do for each</tspan><tspan x="28" dy="1.2em">other—spend time on a regular basis reading each</tspan><tspan x="28" dy="1.2em">other’s code.</tspan>
+    <tspan x="28" dy="0">Software is usually expected to be modified over</tspan><tspan x="28" dy="1.2em">the course of its productive life. The process</tspan><tspan x="28" dy="1.2em">of converting one correct program into a</tspan><tspan x="28" dy="1.2em">different correct program is extremely</tspan><tspan x="28" dy="1.2em">challenging.</tspan>
   </text>
   <text class="meta" x="28" y="178">
-    — Douglas Crockford · <tspan opacity="0.8">4/13/2026, 7:41:10 AM</tspan>
+    — Douglas Crockford · <tspan opacity="0.8">4/13/2026, 11:30:17 AM</tspan>
   </text>
 </svg>
