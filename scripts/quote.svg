@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="506" height="138" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">A programming language is low level when its</tspan><tspan x="28" dy="1.2em">programs require attention to the irrelevant.</tspan>
+    <tspan x="28" dy="0">Beware of bugs in the above code; I have only</tspan><tspan x="28" dy="1.2em">proved it correct, not tried it.</tspan>
   </text>
   <text class="meta" x="28" y="100">
-    — Alan Perlis · <tspan opacity="0.8">4/16/2026, 6:54:47 AM</tspan>
+    — Donald Knuth · <tspan opacity="0.8">4/16/2026, 7:50:21 AM</tspan>
   </text>
 </svg>
