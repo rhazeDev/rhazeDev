@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="526" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">SQL, Lisp, and Haskell are the only programming</tspan><tspan x="28" dy="1.2em">languages that I&#39;ve seen where one spends more</tspan><tspan x="28" dy="1.2em">time thinking than typing.</tspan>
+    <tspan x="28" dy="0">If you can get today’s work done today, but you</tspan><tspan x="28" dy="1.2em">do it in such a way that you can’t possibly get</tspan><tspan x="28" dy="1.2em">tomorrow’s work done tomorrow, then you lose.</tspan>
   </text>
   <text class="meta" x="28" y="126">
-    — Philip Greenspun · <tspan opacity="0.8">4/20/2026, 2:20:30 PM</tspan>
+    — Martin Fowler · <tspan opacity="0.8">4/20/2026, 5:09:37 PM</tspan>
   </text>
 </svg>
