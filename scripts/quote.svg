@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="516" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">A programming systems product takes about nine</tspan><tspan x="28" dy="1.2em">times as much effort as the component programs</tspan><tspan x="28" dy="1.2em">written separately for private use.</tspan>
+    <tspan x="28" dy="0">A stupid error is an algorithmically avoidable</tspan><tspan x="28" dy="1.2em">error. Mainly, you are stupid if you let an</tspan><tspan x="28" dy="1.2em">error that a program can detect go undetected.</tspan>
   </text>
   <text class="meta" x="28" y="126">
-    — Fred Brooks · <tspan opacity="0.8">4/23/2026, 4:07:40 AM</tspan>
+    — Daniel T. Barry · <tspan opacity="0.8">4/23/2026, 5:54:17 AM</tspan>
   </text>
 </svg>
