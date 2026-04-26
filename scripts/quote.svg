@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="526" height="138" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">The proper use of comments is to compensate for</tspan><tspan x="28" dy="1.2em">our failure to express ourself in code.</tspan>
+    <tspan x="28" dy="0">Fools ignore complexity. Pragmatists suffer it.</tspan><tspan x="28" dy="1.2em">Some can avoid it. Geniuses remove it.</tspan>
   </text>
   <text class="meta" x="28" y="100">
-    — Robert C. Martin · <tspan opacity="0.8">4/27/2026, 1:44:56 AM</tspan>
+    — Alan Perlis · <tspan opacity="0.8">4/27/2026, 3:03:10 AM</tspan>
   </text>
 </svg>
