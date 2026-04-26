@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="526" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">If you can get today’s work done today, but you</tspan><tspan x="28" dy="1.2em">do it in such a way that you can’t possibly get</tspan><tspan x="28" dy="1.2em">tomorrow’s work done tomorrow, then you lose.</tspan>
+    <tspan x="28" dy="0">I’ll throw away code as soon I want to add</tspan><tspan x="28" dy="1.2em">something to it and I get the feeling that what</tspan><tspan x="28" dy="1.2em">I have to do to add it is too hard.</tspan>
   </text>
   <text class="meta" x="28" y="126">
-    — Martin Fowler · <tspan opacity="0.8">4/27/2026, 5:44:44 AM</tspan>
+    — Ken Thompson · <tspan opacity="0.8">4/27/2026, 6:46:09 AM</tspan>
   </text>
 </svg>
