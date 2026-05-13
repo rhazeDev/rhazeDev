@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="536" height="216" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">The best programmers are not marginally better</tspan><tspan x="28" dy="1.2em">than merely good ones. They are an</tspan><tspan x="28" dy="1.2em">order-of-magnitude better, measured by whatever</tspan><tspan x="28" dy="1.2em">standard: conceptual creativity, speed,</tspan><tspan x="28" dy="1.2em">ingenuity of design, or problem-solving ability.</tspan>
+    <tspan x="28" dy="0">The cost of adding a feature isn’t just the time</tspan><tspan x="28" dy="1.2em">it takes to code it. The cost also includes the</tspan><tspan x="28" dy="1.2em">addition of an obstacle to future expansion. The</tspan><tspan x="28" dy="1.2em">trick is to pick the features that don’t fight</tspan><tspan x="28" dy="1.2em">each other.</tspan>
   </text>
   <text class="meta" x="28" y="178">
-    — Randall E. Stross · <tspan opacity="0.8">5/14/2026, 2:59:11 AM</tspan>
+    — John Carmack · <tspan opacity="0.8">5/14/2026, 4:51:16 AM</tspan>
   </text>
 </svg>
