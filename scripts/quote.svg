@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="526" height="216" viewBox="0 0 526 216">
+<svg xmlns="http://www.w3.org/2000/svg" width="526" height="190" viewBox="0 0 526 190">
   <style>
     .bg { fill: #1a1b26; }
     .quote { fill: #c0caf5; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:20px; }
     .meta { fill: #9aa5d6; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:15px; }
   </style>
-  <rect x="0" y="0" width="526" height="216" rx="12" ry="12" class="bg"/>
+  <rect x="0" y="0" width="526" height="190" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">The situation is so much better for programmers</tspan><tspan x="28" dy="1.2em">today - a cheap used PC, a linux CD, and an</tspan><tspan x="28" dy="1.2em">internet account, and you have all the tools</tspan><tspan x="28" dy="1.2em">necessary to work your way to any level of</tspan><tspan x="28" dy="1.2em">programming skill you want to shoot for.</tspan>
+    <tspan x="28" dy="0">Programming is programming. If you get good at</tspan><tspan x="28" dy="1.2em">programming, it doesn&#39;t matter which language</tspan><tspan x="28" dy="1.2em">you learned it in, because you&#39;ll be able to do</tspan><tspan x="28" dy="1.2em">programming in any language.</tspan>
   </text>
-  <text class="meta" x="28" y="178">
-    — John Carmack · <tspan opacity="0.8">5/14/2026, 6:24:25 PM</tspan>
+  <text class="meta" x="28" y="152">
+    — Richard Stallman · <tspan opacity="0.8">5/14/2026, 8:56:08 PM</tspan>
   </text>
 </svg>
