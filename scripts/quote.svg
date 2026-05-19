@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="526" height="138" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Within C++, there is a much smaller and cleaner</tspan><tspan x="28" dy="1.2em">language struggling to get out.</tspan>
+    <tspan x="28" dy="0">The most important part of writing a program is</tspan><tspan x="28" dy="1.2em">designing the data structures.</tspan>
   </text>
   <text class="meta" x="28" y="100">
-    — Bjarne Stroustrup · <tspan opacity="0.8">5/19/2026, 4:30:53 PM</tspan>
+    — Dan Bricklin · <tspan opacity="0.8">5/19/2026, 8:14:05 PM</tspan>
   </text>
 </svg>
