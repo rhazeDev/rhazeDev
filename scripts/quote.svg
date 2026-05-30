@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="536" height="242" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">First, we must observe that the anomaly is not</tspan><tspan x="28" dy="1.2em">that software progress is so slow but that</tspan><tspan x="28" dy="1.2em">computer hardware progress is so fast. No other</tspan><tspan x="28" dy="1.2em">technology since civilization began has seen six</tspan><tspan x="28" dy="1.2em">orders of magnitude price-performance gain in 30</tspan><tspan x="28" dy="1.2em">years.</tspan>
+    <tspan x="28" dy="0">Program building is an entropy-decreasing</tspan><tspan x="28" dy="1.2em">process, hence inherently metastable. Program</tspan><tspan x="28" dy="1.2em">maintenance is an entropy-increasing process,</tspan><tspan x="28" dy="1.2em">and even its most skillful execution only delays</tspan><tspan x="28" dy="1.2em">the subsidence of the system into unfixable</tspan><tspan x="28" dy="1.2em">obsolescence.</tspan>
   </text>
   <text class="meta" x="28" y="204">
-    — Fred Brooks · <tspan opacity="0.8">5/30/2026, 5:22:13 PM</tspan>
+    — Fred Brooks · <tspan opacity="0.8">5/30/2026, 7:24:51 PM</tspan>
   </text>
 </svg>
