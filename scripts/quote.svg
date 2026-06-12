@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="526" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">You can&#39;t just ask customers what they want and</tspan><tspan x="28" dy="1.2em">then try to give that to them. By the time you</tspan><tspan x="28" dy="1.2em">get it built, they&#39;ll want something new.</tspan>
+    <tspan x="28" dy="0">I’ll throw away code as soon I want to add</tspan><tspan x="28" dy="1.2em">something to it and I get the feeling that what</tspan><tspan x="28" dy="1.2em">I have to do to add it is too hard.</tspan>
   </text>
   <text class="meta" x="28" y="126">
-    — Steve Jobs · <tspan opacity="0.8">6/13/2026, 5:52:58 AM</tspan>
+    — Ken Thompson · <tspan opacity="0.8">6/13/2026, 7:22:29 AM</tspan>
   </text>
 </svg>
