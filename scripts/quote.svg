@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="516" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">The code you write makes you a programmer. The</tspan><tspan x="28" dy="1.2em">code you delete makes you a good one. The code</tspan><tspan x="28" dy="1.2em">you don&#39;t have to write makes you a great one.</tspan>
+    <tspan x="28" dy="0">A programming systems product takes about nine</tspan><tspan x="28" dy="1.2em">times as much effort as the component programs</tspan><tspan x="28" dy="1.2em">written separately for private use.</tspan>
   </text>
   <text class="meta" x="28" y="126">
-    — Mario Fusco · <tspan opacity="0.8">7/2/2026, 4:49:06 AM</tspan>
+    — Fred Brooks · <tspan opacity="0.8">7/2/2026, 6:21:14 AM</tspan>
   </text>
 </svg>
