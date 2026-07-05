@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="516" height="216" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">Every computer language has its Shakespeares,</tspan><tspan x="28" dy="1.2em">and it is a joy to read their code. A</tspan><tspan x="28" dy="1.2em">well-written computer program possesses style,</tspan><tspan x="28" dy="1.2em">finesse, even humor—and a clarity that rivals</tspan><tspan x="28" dy="1.2em">the best prose.</tspan>
+    <tspan x="28" dy="0">When you find you have to add a feature to a</tspan><tspan x="28" dy="1.2em">program, and the program&#39;s code is not</tspan><tspan x="28" dy="1.2em">structured in a convenient way to add the</tspan><tspan x="28" dy="1.2em">feature, first refactor the program to make it</tspan><tspan x="28" dy="1.2em">easy to add the feature, then add the feature.</tspan>
   </text>
   <text class="meta" x="28" y="178">
-    — Danny Hillis · <tspan opacity="0.8">7/5/2026, 3:34:05 PM</tspan>
+    — Kent Beck · <tspan opacity="0.8">7/5/2026, 6:21:17 PM</tspan>
   </text>
 </svg>
