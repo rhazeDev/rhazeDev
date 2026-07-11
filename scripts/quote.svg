@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="536" height="164" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">It is hard to think that a $2 billion company</tspan><tspan x="28" dy="1.2em">with 4,300-plus people couldn&#39;t compete with six</tspan><tspan x="28" dy="1.2em">people in blue jeans.</tspan>
+    <tspan x="28" dy="0">The separation of architectural effort from</tspan><tspan x="28" dy="1.2em">implementation is a very powerful way of getting</tspan><tspan x="28" dy="1.2em">conceptual integrity on very large projects.</tspan>
   </text>
   <text class="meta" x="28" y="126">
-    — Steve Jobs · <tspan opacity="0.8">7/11/2026, 6:18:02 PM</tspan>
+    — Fred Brooks · <tspan opacity="0.8">7/11/2026, 7:55:20 PM</tspan>
   </text>
 </svg>
