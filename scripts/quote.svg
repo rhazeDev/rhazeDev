@@ -7,9 +7,9 @@
   </style>
   <rect x="0" y="0" width="526" height="138" rx="12" ry="12" class="bg"/>
   <text class="quote" x="28" y="47" xml:space="preserve">
-    <tspan x="28" dy="0">JavaScript, purely by accident, has become the</tspan><tspan x="28" dy="1.2em">most popular programming language in the world.</tspan>
+    <tspan x="28" dy="0">A clever person solves a problem. A wise person</tspan><tspan x="28" dy="1.2em">avoids it.</tspan>
   </text>
   <text class="meta" x="28" y="100">
-    — Douglas Crockford · <tspan opacity="0.8">7/13/2026, 4:56:37 AM</tspan>
+    — Albert Einstein · <tspan opacity="0.8">7/13/2026, 5:57:55 AM</tspan>
   </text>
 </svg>
