@@ -174,7 +174,6 @@ Administrators and Super Admins manage platform safety, verify credentials, enfo
 
 #### 1. Executive Operations & KPI Dashboard
 * **Real-Time System Overview**: Monitor platform metrics including active bookings count, total registered clients and technicians, pending verification queues, open dispute counts, and platform commission revenue.
-* **Platform Audit Stream**: View real-time activity feeds of recent system events, logins, and status transitions.
 
 #### 2. Technician Credential Verification Queue
 * **Credential Inspection Queue**: Access all pending technician applications in a dedicated review queue.
